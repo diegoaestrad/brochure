@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Professional portfolio: cybersecurity, n8n automation, backend consulting, web development, AI content, and 30+ industry website demos."
+    />
+    <title>Services & Portfolio | Cybersecurity, Automation & Web Development</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="main.css" />
+    <script src="portfolio-data.js"></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <nav class="site-nav" aria-label="Main navigation">
+      <div class="container nav-inner">
+        <a class="brand-link" href="#top">
+          <span class="brand-mark">DC</span>
+          <span>DAEB Consulting</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="Menu">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+        <ul class="nav-links" id="nav-menu">
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#digital">Digital Services</a></li>
+          <li><a href="#services">Enterprise Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="nav-cta-wrap">
+          <a class="nav-cta" href="#contact">Request a Quote</a>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero" id="top">
+      <div class="container hero-grid">
+        <div class="reveal">
+          <p class="hero-badge"><span></span> Remote worldwide · Security-first</p>
+          <h1>
+            Secure systems.<br />
+            <span class="gradient">Smart automation.</span><br />
+            Websites that convert.
+          </h1>
+          <p class="hero-lead">
+            Cybersecurity, n8n automation, backend & API consulting, custom software, landing pages for ads,
+            AI-powered content, and industry-ready website demos for your clients.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#contact">Book a Discovery Call</a>
+            <a class="btn btn-secondary" href="#portfolio">View Website Portfolio</a>
+          </div>
+          <div class="trust-row">
+            <span class="trust-pill">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+              Remote Worldwide
+            </span>
+            <span class="trust-pill">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              Security-First
+            </span>
+            <span class="trust-pill">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+              Automation Specialist
+            </span>
+            <span class="trust-pill">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4 12 14.01l-3-3"/></svg>
+              CCT Certified
+            </span>
+          </div>
+        </div>
+        <div class="hero-stats reveal">
+          <div class="stat-card"><strong>30+</strong><span>Industry demo sites</span></div>
+          <div class="stat-card"><strong>8</strong><span>Enterprise service lines</span></div>
+          <div class="stat-card"><strong>n8n</strong><span>Workflow automation</span></div>
+          <div class="stat-card"><strong>24/7</strong><span>Remote delivery</span></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- PORTFOLIO -->
+    <section class="section section-alt" id="portfolio">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="section-label">Portfolio</span>
+          <h2>Website demos by industry</h2>
+          <p>
+            Full live preview sites for local businesses — show your clients exactly what they can get.
+            Each demo opens in a new tab.
+          </p>
+        </div>
+        <div class="portfolio-filters reveal" role="group" aria-label="Filter portfolio">
+          <button type="button" class="filter-chip active" data-filter="all" aria-pressed="true">All</button>
+          <button type="button" class="filter-chip" data-filter="Food & Beverage" aria-pressed="false">Food</button>
+          <button type="button" class="filter-chip" data-filter="Health & Wellness" aria-pressed="false">Health</button>
+          <button type="button" class="filter-chip" data-filter="Beauty & Care" aria-pressed="false">Beauty</button>
+          <button type="button" class="filter-chip" data-filter="Home & Trade" aria-pressed="false">Trades</button>
+          <button type="button" class="filter-chip" data-filter="Professional" aria-pressed="false">Professional</button>
+          <button type="button" class="filter-chip" data-filter="Fitness & Creative" aria-pressed="false">Fitness</button>
+        </div>
+        <div class="portfolio-grid" id="portfolio-grid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- DIGITAL SERVICES -->
+    <section class="section" id="digital">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="section-label">Growth & Web</span>
+          <h2>Digital services for modern businesses</h2>
+          <p>
+            Software, websites, ad landing pages, AI content that ranks on Google, and conversion widgets —
+            built to grow revenue and save time.
+          </p>
+        </div>
+        <div class="digital-grid">
+          <article class="digital-card reveal">
+            <div class="card-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+            </div>
+            <h3>Software Development</h3>
+            <p>Custom applications, internal tools, and integrations tailored to your business processes — scalable, maintainable, and secure by design.</p>
+            <span class="digital-tag">Custom builds · APIs · Integrations</span>
+            <button type="button" class="btn btn-secondary" data-quote="Software Development">Request a Quote</button>
+          </article>
+          <article class="digital-card reveal">
+            <div class="card-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
+            </div>
+            <h3>Website Development</h3>
+            <p>Professional business websites with modern UX, mobile-first layouts, fast performance, and SEO-ready structure — like the demos in this portfolio.</p>
+            <span class="digital-tag">Business sites · Multi-page · SEO</span>
+            <button type="button" class="btn btn-secondary" data-quote="Website Development">Request a Quote</button>
+          </article>
+          <article class="digital-card reveal">
+            <div class="card-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+            </div>
+            <h3>Advertising Landing Pages</h3>
+            <p>High-conversion landing pages for Google Ads, Meta, and campaigns — focused copy, clear CTAs, and tracking-ready structure to maximize ad spend ROI.</p>
+            <span class="digital-tag">Ads · Conversion · A/B ready</span>
+            <button type="button" class="btn btn-secondary" data-quote="Advertising Landing Pages">Request a Quote</button>
+          </article>
+          <article class="digital-card reveal">
+            <div class="card-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a4 4 0 0 1 4 4c0 1.95-1.4 3.58-3.25 3.94"/><path d="M8.5 10.5C6.5 11.5 5 13.5 5 16v2h14v-2c0-2.5-1.5-4.5-3.5-5.5"/><path d="M9 18v1a3 3 0 0 0 6 0v-1"/></svg>
+            </div>
+            <h3>AI Content & Blogging</h3>
+            <p>Your bridge for businesses afraid of AI: SEO blog articles written with AI + human editing, published 2–4 times per month to rank on Google in their niche.</p>
+            <span class="digital-tag">Recurring monthly · Organic SEO</span>
+            <button type="button" class="btn btn-secondary" data-quote="AI Content & Blogging">Request a Quote</button>
+          </article>
+          <article class="digital-card reveal">
+            <div class="card-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            </div>
+            <h3>Chatbots & Click-to-Contact Widgets</h3>
+            <p>WhatsApp, call, and chat widgets that capture leads instantly — automated first responses and handoff flows so you never miss a prospect.</p>
+            <span class="digital-tag">WhatsApp · Call · Lead capture</span>
+            <button type="button" class="btn btn-secondary" data-quote="Chatbots & Contact Widgets">Request a Quote</button>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ENTERPRISE SERVICES -->
+    <section class="section section-alt" id="services">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="section-label">Enterprise</span>
+          <h2>Services</h2>
+          <p>
+            Remote cybersecurity, automation, and technical consulting services for modern businesses worldwide.
+          </p>
+        </div>
+
+        <div class="category-block reveal">
+          <h3 class="category-title"><span>Category 1</span><span class="category-line"></span> Automation</h3>
+          <div class="services-grid">
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+              </div>
+              <h3>Business Process Automation</h3>
+              <p class="desc">Automation of repetitive business workflows using n8n to improve efficiency, reduce manual work, and streamline operations.</p>
+              <ul class="service-bullets">
+                <li>CRM automation</li>
+                <li>Email workflows</li>
+                <li>API integrations</li>
+                <li>Notifications and alerts</li>
+                <li>Reporting automation</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $500<span>Project-based</span></div>
+                <button type="button" class="btn btn-primary" data-quote="Business Process Automation">Request a Quote</button>
+              </div>
+            </article>
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              </div>
+              <h3>Security Automation & Monitoring</h3>
+              <p class="desc">Automated security workflows and monitoring solutions designed to improve visibility and reduce response time.</p>
+              <ul class="service-bullets">
+                <li>Security alerts</li>
+                <li>Automated reporting</li>
+                <li>Incident workflows</li>
+                <li>Monitoring integrations</li>
+                <li>Log notifications</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $2,000<span>Enterprise scope</span></div>
+                <button type="button" class="btn btn-primary" data-quote="Security Automation & Monitoring">Request a Quote</button>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="category-block reveal">
+          <h3 class="category-title"><span>Category 2</span><span class="category-line"></span> Cybersecurity</h3>
+          <div class="services-grid">
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+              </div>
+              <h3>Vulnerability Assessment</h3>
+              <p class="desc">Identify vulnerabilities and security weaknesses through professional scanning and risk analysis.</p>
+              <ul class="service-bullets">
+                <li>Vulnerability scanning</li>
+                <li>Risk prioritization</li>
+                <li>Security reporting</li>
+                <li>Remediation recommendations</li>
+                <li>Executive summary</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $500</div>
+                <button type="button" class="btn btn-primary" data-quote="Vulnerability Assessment">Request a Quote</button>
+              </div>
+            </article>
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg>
+              </div>
+              <h3>Security Audit & Risk Assessment</h3>
+              <p class="desc">Comprehensive review of systems, configurations, and infrastructure to improve security posture.</p>
+              <ul class="service-bullets">
+                <li>Network review</li>
+                <li>Endpoint review</li>
+                <li>Configuration analysis</li>
+                <li>Security recommendations</li>
+                <li>Risk assessment</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $700</div>
+                <button type="button" class="btn btn-primary" data-quote="Security Audit & Risk Assessment">Request a Quote</button>
+              </div>
+            </article>
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/></svg>
+              </div>
+              <h3>System Hardening (Windows/Linux)</h3>
+              <p class="desc">Secure configuration and hardening of operating systems to reduce attack surface and improve protection.</p>
+              <ul class="service-bullets">
+                <li>OS hardening</li>
+                <li>Access control review</li>
+                <li>Permission management</li>
+                <li>Security baselines</li>
+                <li>Best practices implementation</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $800</div>
+                <button type="button" class="btn btn-primary" data-quote="System Hardening">Request a Quote</button>
+              </div>
+            </article>
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>
+              </div>
+              <h3>Cloud Security Review</h3>
+              <p class="desc">Cloud security assessment and configuration review for AWS, Azure, and GCP environments.</p>
+              <ul class="service-bullets">
+                <li>IAM review</li>
+                <li>Cloud security baseline</li>
+                <li>Configuration review</li>
+                <li>Security recommendations</li>
+                <li>Best practices assessment</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $1,000</div>
+                <button type="button" class="btn btn-primary" data-quote="Cloud Security Review">Request a Quote</button>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="category-block reveal">
+          <h3 class="category-title"><span>Category 3</span><span class="category-line"></span> Engineering & Data</h3>
+          <div class="services-grid">
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+              </div>
+              <h3>Database Optimization</h3>
+              <p class="desc">Performance optimization and review of SQL databases and data workflows.</p>
+              <ul class="service-bullets">
+                <li>Query optimization</li>
+                <li>Performance tuning</li>
+                <li>Schema review</li>
+                <li>Reporting improvements</li>
+                <li>Database recommendations</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">Starting at USD $500</div>
+                <button type="button" class="btn btn-primary" data-quote="Database Optimization">Request a Quote</button>
+              </div>
+            </article>
+            <article class="service-card">
+              <div class="service-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+              </div>
+              <h3>Backend & API Consulting</h3>
+              <p class="desc">Technical consulting for backend systems, APIs, integrations, and software architecture.</p>
+              <ul class="service-bullets">
+                <li>Architecture review</li>
+                <li>API security</li>
+                <li>Technical recommendations</li>
+                <li>Integration planning</li>
+                <li>System design guidance</li>
+              </ul>
+              <div class="service-footer">
+                <div class="service-price">USD $60–120/hour<span>Consulting rate</span></div>
+                <button type="button" class="btn btn-primary" data-quote="Backend & API Consulting">Request a Quote</button>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BOTTOM CTA -->
+    <section class="section" id="cta-bottom">
+      <div class="container">
+        <div class="cta-panel reveal">
+          <h2>Let's Build Secure & Automated Systems</h2>
+          <p>Helping businesses automate operations, improve security, and scale efficiently.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#contact">Book a Discovery Call</a>
+            <a class="btn btn-secondary" href="#contact">Contact Me</a>
+          </div>
+          <div class="trust-row">
+            <span class="trust-pill">Remote Worldwide</span>
+            <span class="trust-pill">Security-First Approach</span>
+            <span class="trust-pill">Automation Specialist</span>
+            <span class="trust-pill">CCT Certified</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="section section-alt" id="contact">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="section-label">Contact</span>
+          <h2>Get in touch</h2>
+          <p>Tell me about your project — I'll respond with scope, timeline, and a quote.</p>
+        </div>
+        <div class="contact-grid reveal">
+          <div class="contact-info">
+            <h3>How I work</h3>
+            <ul class="contact-list">
+              <li>Remote delivery worldwide</li>
+              <li>Clear proposals before any work starts</li>
+              <li>Security-first on every engagement</li>
+              <li>Flexible: projects, retainers, or hourly consulting</li>
+            </ul>
+          </div>
+          <form class="contact-form" id="quote-form" novalidate>
+            <div class="form-row">
+              <label for="name">Full Name</label>
+              <input id="name" name="name" type="text" required maxlength="80" />
+            </div>
+            <div class="form-row">
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" required />
+            </div>
+            <div class="form-row">
+              <label for="service">Service interested in</label>
+              <select id="service" name="service">
+                <option value="">Select a service…</option>
+                <optgroup label="Digital">
+                  <option>Software Development</option>
+                  <option>Website Development</option>
+                  <option>Advertising Landing Pages</option>
+                  <option>AI Content & Blogging</option>
+                  <option>Chatbots & Contact Widgets</option>
+                </optgroup>
+                <optgroup label="Automation">
+                  <option>Business Process Automation</option>
+                  <option>Security Automation & Monitoring</option>
+                </optgroup>
+                <optgroup label="Cybersecurity">
+                  <option>Vulnerability Assessment</option>
+                  <option>Security Audit & Risk Assessment</option>
+                  <option>System Hardening</option>
+                  <option>Cloud Security Review</option>
+                </optgroup>
+                <optgroup label="Engineering">
+                  <option>Database Optimization</option>
+                  <option>Backend & API Consulting</option>
+                </optgroup>
+              </select>
+            </div>
+            <div class="form-row">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" required minlength="10" maxlength="800"></textarea>
+            </div>
+            <button class="btn btn-primary" type="submit">Send Request</button>
+            <p class="form-feedback" id="form-feedback" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© <span id="year"></span> Diego Consulting — Cybersecurity, Automation & Web Development</p>
+      </div>
+    </footer>
+
+    <aside class="sticky-cta" aria-label="Quick contact">
+      <p>Ready to secure and automate your business?</p>
+      <a class="btn btn-primary" href="#contact">Request a Quote</a>
+      <a class="btn btn-secondary" href="#portfolio">View Demos</a>
+    </aside>
+
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>

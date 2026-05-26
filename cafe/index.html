@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-warm">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Brew Haven Cafe serves specialty coffee, fresh pastries, and brunch in Seattle." />
+    <title>Brew Haven Cafe | Specialty Coffee & Brunch</title>
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=DM+Sans:wght@400;600;700&display=swap" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <nav class="navbar" aria-label="Main">
+        <div class="container nav-content">
+          <a class="logo" href="#home"><span class="logo-mark">☕</span><span>Brew Haven Cafe</span></a>
+          <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="Menu"><span></span><span></span><span></span></button>
+          <ul class="nav-links" id="nav-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#products">Menu</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Offerings</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <section class="hero" id="home" style="background-image:linear-gradient(rgba(61, 40, 23, 0.5), rgba(61, 40, 23, 0.7)), url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1920&q=80')">
+        <div class="container hero-content">
+          <p class="eyebrow">Fresh Roasts • Artisan Pastries • Cozy Atmosphere</p>
+          <h1>Your Daily Cup of Comfort.</h1>
+          <p>Brew Haven pairs carefully sourced coffee with artisan pastries and wholesome brunch in a warm neighborhood gathering place.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#products">Explore Menu</a>
+            <a class="btn btn-secondary" href="#contact">Visit Us</a>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main id="main-content">
+      <section class="section" id="products">
+        <div class="container">
+          <div class="section-head"><h2>Featured Menu</h2><p>Six favorites our regulars order every week.</p></div>
+          <div class="product-grid">            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80" alt="Espresso latte with latte art" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Espresso Drinks</h3><p>Lattes, cappuccinos, and macchiatos from premium beans.</p></div>
+            </article>
+            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80" alt="Pour-over coffee brewing" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Single Origin Pour-Over</h3><p>Rotating beans from celebrated growing regions.</p></div>
+            </article>
+            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=80" alt="Fresh bakery pastries display" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Fresh Pastries</h3><p>Croissants, muffins, and cakes baked each morning.</p></div>
+            </article>
+            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80" alt="Avocado toast brunch plate" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Avocado Toast</h3><p>Smashed avocado on sourdough with seasonal toppings.</p></div>
+            </article>
+            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=80" alt="Fresh seasonal salad bowl" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Seasonal Salads</h3><p>Greens, grains, and house dressings for lunch.</p></div>
+            </article>
+            <article class="product-card">
+              <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80" alt="Iced cold brew coffee" loading="lazy" decoding="async" width="900" height="600" />
+              <div class="product-copy"><h3>Cold Brew</h3><p>Smooth cold brew and iced seasonal drinks.</p></div>
+            </article></div>
+        </div>
+      </section>
+      <section class="section section-alt" id="about">
+        <div class="container about-grid">
+          <div class="about-image-wrap">
+            <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1100&q=80" alt="Barista preparing latte art at Brew Haven Cafe" loading="lazy" decoding="async" width="1100" height="750" />
+          </div>
+          <div class="about-copy">
+            <div class="section-head left-align"><h2>About Us</h2></div>
+            <p>Brew Haven started as a small roasting project and grew into the neighborhood cafe where friends meet for coffee and conversation.</p>
+            <p>We source beans ethically and roast in small batches for peak flavor, pairing every cup with food made from scratch.</p>
+            <p>Whether you need a quick espresso or a relaxed brunch, our team is here to make your visit feel like home.</p>
+          </div>
+        </div>
+      </section>
+      <section class="section" id="services">
+        <div class="container">
+          <div class="section-head"><h2>What We Offer</h2><p>Coffee, food, and experiences for every part of your day.</p></div>
+          <div class="services-grid">            <article class="service-card"><h3>Beverages</h3><ul>
+                <li>Espresso drinks</li>
+                <li>Specialty lattes</li>
+                <li>Herbal teas</li>
+              </ul></article>
+            <article class="service-card"><h3>Breakfast</h3><ul>
+                <li>Omelets</li>
+                <li>Breakfast sandwiches</li>
+                <li>Yogurt bowls</li>
+              </ul></article>
+            <article class="service-card"><h3>Lunch</h3><ul>
+                <li>Fresh salads</li>
+                <li>Gourmet sandwiches</li>
+                <li>Seasonal soups</li>
+              </ul></article>
+            <article class="service-card"><h3>Baked Goods</h3><ul>
+                <li>Daily pastries</li>
+                <li>Artisan bread</li>
+                <li>Gluten-free options</li>
+              </ul></article>
+            <article class="service-card"><h3>Events</h3><ul>
+                <li>Private bookings</li>
+                <li>Coffee tastings</li>
+                <li>Catering trays</li>
+              </ul></article>
+            <article class="service-card"><h3>Retail</h3><ul>
+                <li>Whole bean coffee</li>
+                <li>Brewing gear</li>
+                <li>Gift cards</li>
+              </ul></article></div>
+        </div>
+      </section>
+      <section class="section section-alt" id="contact">
+        <div class="container contact-grid">
+          <div>
+            <div class="section-head left-align"><h2>Contact Us</h2><p>Visit, call, or send an inquiry—we would love to hear from you.</p></div>
+            <ul class="contact-list">
+              <li><strong>Address:</strong> 321 Harbor Street, Seattle, WA 98101</li>
+              <li><strong>Phone:</strong> <a href="tel:+12065551234">(206) 555-1234</a></li>
+              <li><strong>Email:</strong> <a href="mailto:hello@cafe.com">hello@cafe.com</a></li>
+              <li><strong>Hours:</strong> Monday - Sunday, 7:00 AM - 5:00 PM</li>
+            </ul>
+            <div class="map-wrap">
+              <iframe title="Map" src="https://www.google.com/maps?q=321+Harbor+Street%2C+Seattle%2C+WA+98101&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+          </div>
+          <aside class="contact-card">
+            <h3>Send a Message</h3>
+            <form id="contact-form" novalidate>
+              <div class="form-group"><label for="name">Full Name</label><input id="name" name="name" type="text" required maxlength="60" /></div>
+              <div class="form-group"><label for="email">Email</label><input id="email" name="email" type="email" required /></div>
+              <div class="form-group"><label for="phone">Phone (optional)</label><input id="phone" name="phone" type="tel" placeholder="(206) 555-1234" pattern="^\+?[0-9\s\-()](7, 20)$" /></div>
+              <div class="form-group"><label for="message">Message</label><textarea id="message" name="message" rows="5" required minlength="10" maxlength="500"></textarea></div>
+              <button class="btn btn-primary" type="submit">Send Inquiry</button>
+              <p class="form-feedback" id="form-feedback" role="status" aria-live="polite"></p>
+            </form>
+          </aside>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <div><a class="logo footer-logo" href="#home">Brew Haven Cafe</a><p>Specialty coffee and brunch done right.</p></div>
+        <div><h4>Follow</h4><ul class="social-links">            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Facebook</a></li></ul></div>
+      </div>
+      <p class="copyright">© <span id="year"></span> Brew Haven Cafe. Demo website.</p>
+    </footer>
+
+    <div class="demo-bar" role="note" aria-label="Demo website notice">
+      <p><strong>Demo preview</strong> — sample client website</p>
+      <a href="../index.html">← Services & portfolio</a>
+    </div>
+  </body>
+</html>

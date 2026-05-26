@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Sweet Haven Bakery crafts artisan breads, pastries, and celebration cakes with fresh, local ingredients."
+    />
+    <title>Sweet Haven Bakery | Freshly Baked Happiness</title>
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header" id="home">
+      <nav class="navbar" aria-label="Main navigation">
+        <div class="container nav-content">
+          <a class="logo" href="#home" aria-label="Sweet Haven Bakery Home">
+            <span class="logo-mark" aria-hidden="true">🍰</span>
+            <span>Sweet Haven Bakery</span>
+          </a>
+
+          <button
+            class="menu-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="nav-menu"
+            aria-label="Toggle menu"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+
+          <ul class="nav-links" id="nav-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <section class="hero" aria-label="Bakery hero banner">
+        <div class="container hero-content">
+          <p class="eyebrow">Fresh Daily • Local Ingredients • Handcrafted with Love</p>
+          <h1>Warm Bakes, Sweet Moments.</h1>
+          <p>
+            From crusty morning loaves to celebration-ready cakes, Sweet Haven Bakery
+            brings comfort and joy to every table.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#products">Explore Products</a>
+            <a class="btn btn-secondary" href="#contact">Place an Inquiry</a>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main id="main-content">
+      <section class="section" id="products">
+        <div class="container">
+          <div class="section-head">
+            <h2>Featured Products</h2>
+            <p>Six crowd favorites baked fresh each day.</p>
+          </div>
+
+          <div class="product-grid">
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80"
+                alt="Crusty artisan sourdough loaf"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Signature Sourdough</h3>
+                <p>Slow-fermented, golden crust, and a tender crumb with rich flavor.</p>
+              </div>
+            </article>
+
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=80"
+                alt="Freshly baked butter croissants"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Butter Croissants</h3>
+                <p>Flaky layers and European-style butter make every bite irresistible.</p>
+              </div>
+            </article>
+
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=80"
+                alt="Chocolate cake topped with berries"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Chocolate Fudge Cake</h3>
+                <p>Moist layers, silky ganache, and a celebratory finish for any occasion.</p>
+              </div>
+            </article>
+
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=900&q=80"
+                alt="Warm cinnamon rolls with icing"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Cinnamon Rolls</h3>
+                <p>Soft spirals glazed to perfection with brown sugar and cinnamon spice.</p>
+              </div>
+            </article>
+
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1517433670267-08bbd4be890f?auto=format&fit=crop&w=900&q=80"
+                alt="Fruit danish pastries"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Berry Danish</h3>
+                <p>Buttery pastry topped with seasonal berries and a lightly sweet glaze.</p>
+              </div>
+            </article>
+
+            <article class="product-card">
+              <img
+                src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80"
+                alt="Assorted fresh breads"
+                loading="lazy"
+                decoding="async"
+                width="900"
+                height="600"
+              />
+              <div class="product-copy">
+                <h3>Rustic Bread Selection</h3>
+                <p>Daily mix of baguettes, multigrain loaves, and rustic country breads.</p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-alt" id="about">
+        <div class="container about-grid">
+          <div class="about-image-wrap">
+            <img
+              src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1100&q=80"
+              alt="Baker preparing dough in a warm bakery kitchen"
+              loading="lazy"
+              decoding="async"
+              width="1100"
+              height="750"
+            />
+          </div>
+
+          <div class="about-copy">
+            <div class="section-head left-align">
+              <h2>About Us</h2>
+            </div>
+            <p>
+              Sweet Haven Bakery started as a small family kitchen dream, inspired by
+              generations of home recipes and a love for sharing fresh bread with the
+              neighborhood. What began with weekend market stalls has grown into a cozy
+              bakery where familiar aromas greet every guest.
+            </p>
+            <p>
+              We believe the best baking starts with quality ingredients, careful technique,
+              and patience. Our team prepares doughs, batters, and fillings from scratch each
+              morning, balancing time-honored methods with seasonal flavors.
+            </p>
+            <p>
+              Whether you stop in for your daily pastry, order a custom cake, or pick up bread
+              for dinner, our goal is simple: create delicious moments that bring people
+              together.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="services">
+        <div class="container">
+          <div class="section-head">
+            <h2>Services &amp; Menu</h2>
+            <p>Explore our bakery categories for everyday treats and special events.</p>
+          </div>
+
+          <div class="services-grid">
+            <article class="service-card">
+              <h3>Cakes</h3>
+              <ul>
+                <li>Custom birthday and celebration cakes</li>
+                <li>Wedding tiers and dessert tables</li>
+                <li>Mini cakes and cupcakes</li>
+              </ul>
+            </article>
+
+            <article class="service-card">
+              <h3>Pastries</h3>
+              <ul>
+                <li>Croissants, danishes, and turnovers</li>
+                <li>Seasonal fruit tarts</li>
+                <li>Morning pastry boxes</li>
+              </ul>
+            </article>
+
+            <article class="service-card">
+              <h3>Bread</h3>
+              <ul>
+                <li>Artisan sourdough and baguettes</li>
+                <li>Whole grain and multigrain loaves</li>
+                <li>Sandwich bread and dinner rolls</li>
+              </ul>
+            </article>
+
+            <article class="service-card">
+              <h3>Cookies &amp; Bars</h3>
+              <ul>
+                <li>Classic chocolate chip cookies</li>
+                <li>Brownies and blondies</li>
+                <li>Gift-ready assortments</li>
+              </ul>
+            </article>
+
+            <article class="service-card">
+              <h3>Catering</h3>
+              <ul>
+                <li>Office breakfast trays</li>
+                <li>Event pastry platters</li>
+                <li>Bulk bread and sandwich support</li>
+              </ul>
+            </article>
+
+            <article class="service-card">
+              <h3>Seasonal Specials</h3>
+              <ul>
+                <li>Holiday pies and festive cakes</li>
+                <li>Limited monthly flavor drops</li>
+                <li>Chef-inspired tasting boxes</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-alt" id="contact">
+        <div class="container contact-grid">
+          <div>
+            <div class="section-head left-align">
+              <h2>Contact Us</h2>
+              <p>Visit, call, or send an inquiry for custom orders and event requests.</p>
+            </div>
+
+            <ul class="contact-list">
+              <li><strong>Address:</strong> 123 Hearth Lane, Portland, OR 97201</li>
+              <li><strong>Phone:</strong> <a href="tel:+15035551234">(503) 555-1234</a></li>
+              <li>
+                <strong>Email:</strong>
+                <a href="mailto:hello@sweethavenbakery.com">hello@sweethavenbakery.com</a>
+              </li>
+              <li><strong>Hours:</strong> Monday - Saturday, 7:00 AM - 6:00 PM</li>
+            </ul>
+
+            <div class="map-wrap" aria-label="Sweet Haven Bakery location map">
+              <iframe
+                title="Sweet Haven Bakery Location"
+                src="https://www.google.com/maps?q=123+Hearth+Lane,+Portland,+OR+97201&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+          </div>
+
+          <aside class="contact-card" aria-label="Customer inquiry form">
+            <h3>Customer Inquiry</h3>
+            <form id="contact-form" novalidate>
+              <div class="form-group">
+                <label for="name">Full Name</label>
+                <input id="name" name="name" type="text" required maxlength="60" />
+              </div>
+
+              <div class="form-group">
+                <label for="email">Email Address</label>
+                <input id="email" name="email" type="email" required />
+              </div>
+
+              <div class="form-group">
+                <label for="phone">Phone Number (optional)</label>
+                <input
+                  id="phone"
+                  name="phone"
+                  type="tel"
+                  placeholder="(503) 555-1234"
+                  pattern="^\+?[0-9\s\-()]{7,20}$"
+                />
+              </div>
+
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  rows="5"
+                  required
+                  minlength="10"
+                  maxlength="500"
+                ></textarea>
+              </div>
+
+              <button class="btn btn-primary" type="submit">Send Inquiry</button>
+              <p class="form-feedback" id="form-feedback" role="status" aria-live="polite"></p>
+            </form>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <div>
+          <a class="logo footer-logo" href="#home">Sweet Haven Bakery</a>
+          <p>Handcrafted bakes made fresh every morning.</p>
+        </div>
+
+        <div>
+          <h4>Follow Us</h4>
+          <ul class="social-links">
+            <li><a href="#" aria-label="Follow Sweet Haven Bakery on Instagram">Instagram</a></li>
+            <li><a href="#" aria-label="Follow Sweet Haven Bakery on Facebook">Facebook</a></li>
+            <li><a href="#" aria-label="Follow Sweet Haven Bakery on Pinterest">Pinterest</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <p class="copyright">
+        © <span id="year"></span> Sweet Haven Bakery. All rights reserved.
+      </p>
+    </footer>
+  
+    <div class="demo-bar" role="note" aria-label="Demo website notice">
+      <p><strong>Demo preview</strong> — sample site for portfolio review</p>
+      <a href="../index.html">← All demos</a>
+    </div>
+  </body>
+</html>

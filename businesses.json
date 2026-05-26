@@ -1,0 +1,3838 @@
+[
+  {
+    "name": "Premier Financial Group",
+    "emoji": "\ud83d\udcca",
+    "tagline": "Trusted Accounting Solutions",
+    "meta": "Premier Financial Group provides expert accounting, tax planning, and business consulting.",
+    "eyebrow": "Expert Guidance \u2022 Strategic Planning \u2022 Peace of Mind",
+    "headline": "Your Financial Success Is Our Priority.",
+    "hero_text": "From tax compliance to strategic business planning, Premier Financial Group delivers comprehensive accounting solutions for individuals and businesses.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Schedule Consultation",
+    "products_nav": "Services",
+    "services_nav": "Expertise",
+    "products_heading": "Our Services",
+    "products_sub": "Comprehensive financial solutions tailored to your needs.",
+    "services_heading": "Industries We Serve",
+    "services_sub": "Specialized expertise across multiple business sectors.",
+    "hero_image": "photo-1554224155-6726b3ff858f",
+    "about_photo": "photo-1554224155-6726b3ff858f",
+    "about_alt": "Professional accountants reviewing financial documents",
+    "products": [
+      [
+        "Tax Planning & Prep",
+        "Strategic tax solutions to minimize liability and maximize returns.",
+        "photo-1454165804606-c3d57bc86b40",
+        "Tax planning documents and calculator"
+      ],
+      [
+        "Bookkeeping",
+        "Accurate record-keeping and financial statement preparation.",
+        "photo-1554224155-6726b3ff858f",
+        "Bookkeeping and ledger work"
+      ],
+      [
+        "Business Consulting",
+        "Strategic guidance for growth, efficiency, and profitability.",
+        "photo-1560707303-4e980ce876ad",
+        "Business consulting meeting"
+      ],
+      [
+        "Payroll Management",
+        "Complete payroll processing and compliance management.",
+        "photo-1553877522-43269d4ea984",
+        "Payroll and HR administration"
+      ],
+      [
+        "Audit & Assurance",
+        "Independent audits and financial statement reviews.",
+        "photo-1554224155-6726b3ff858f",
+        "Audit and compliance review"
+      ],
+      [
+        "Financial Planning",
+        "Comprehensive wealth management and retirement planning.",
+        "photo-1554224155-6726b3ff858f",
+        "Financial planning consultation"
+      ]
+    ],
+    "services": [
+      [
+        "Healthcare",
+        [
+          "Medical practice accounting",
+          "HIPAA compliance guidance",
+          "Revenue cycle optimization"
+        ]
+      ],
+      [
+        "Technology",
+        [
+          "Startup accounting solutions",
+          "Equity and cap table management",
+          "VC funding preparation"
+        ]
+      ],
+      [
+        "Real Estate",
+        [
+          "Property accounting",
+          "Depreciation strategies",
+          "Investment analysis"
+        ]
+      ],
+      [
+        "Retail",
+        [
+          "Inventory management",
+          "Cost analysis",
+          "Seasonal planning"
+        ]
+      ],
+      [
+        "Manufacturing",
+        [
+          "Cost accounting",
+          "Production analysis",
+          "Supply chain optimization"
+        ]
+      ],
+      [
+        "Professional Services",
+        [
+          "Time tracking integration",
+          "Project profitability analysis",
+          "Client billing automation"
+        ]
+      ]
+    ],
+    "about": [
+      "Premier Financial Group was founded to simplify accounting and provide strategic financial guidance. Our CPAs and advisors bring decades of experience helping businesses and individuals reach their goals.",
+      "We build long-term client relationships by understanding your unique situation and delivering customized solutions that create real value and peace of mind.",
+      "Continuous learning, ethical practices, and exceptional service define how we work with every client."
+    ],
+    "location": "456 Business Plaza, Suite 200, Denver, CO 80202",
+    "phone": "+13035551234",
+    "phone_display": "(303) 555-1234",
+    "email": "hello@premierfinancial.com",
+    "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
+    "contact_sub": "Ready to optimize your financial strategy? Reach out today.",
+    "form_title": "Request Consultation",
+    "footer_tag": "Strategic financial solutions for business growth.",
+    "social": [
+      "LinkedIn",
+      "Facebook",
+      "Twitter"
+    ],
+    "colors": {
+      "cream": "#f0f4f8",
+      "cream_soft": "#e8ecf1",
+      "dark": "#1e3a5f",
+      "mid": "#2d5a8c",
+      "light": "#4a7ba7",
+      "gold": "#d4a373",
+      "gold_soft": "#e8c4a0",
+      "text": "#2c3e50",
+      "danger": "#c23e3e"
+    },
+    "hero_overlay": "rgba(20, 35, 60, 0.5), rgba(20, 35, 60, 0.68)",
+    "slug": "accounting-firm"
+  },
+  {
+    "name": "Expert Auto Care",
+    "emoji": "\ud83d\udd27",
+    "tagline": "Professional Auto Repair & Service",
+    "meta": "Expert Auto Care provides reliable automotive repair, maintenance, and diagnostics.",
+    "eyebrow": "Certified Techs \u2022 Quality Parts \u2022 Honest Service",
+    "headline": "Keep Your Vehicle Running Right.",
+    "hero_text": "From routine maintenance to major repairs, Expert Auto Care delivers dependable automotive service with certified technicians and transparent pricing.",
+    "cta_primary": "View Services",
+    "cta_secondary": "Book Appointment",
+    "products_nav": "Services",
+    "services_nav": "Specialties",
+    "products_heading": "Featured Services",
+    "products_sub": "Six essential services our customers trust most.",
+    "services_heading": "Service Categories",
+    "services_sub": "Full-service auto care under one roof.",
+    "hero_image": "photo-1486262715619-67b85e0b08d3",
+    "about_photo": "photo-1486262715619-67b85e0b08d3",
+    "about_alt": "Mechanic inspecting a vehicle engine in the shop",
+    "products": [
+      [
+        "Oil Changes & Filters",
+        "Regular maintenance keeps your engine running smoothly.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Oil change service at auto shop"
+      ],
+      [
+        "Brake Service",
+        "Inspections, pad replacement, and rotor resurfacing for safe stopping.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Brake system repair"
+      ],
+      [
+        "Tire Services",
+        "Installation, rotation, balancing, and alignment.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Tire service and installation"
+      ],
+      [
+        "Engine Diagnostics",
+        "Computer diagnostics to pinpoint engine issues quickly.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Engine diagnostic equipment"
+      ],
+      [
+        "Transmission Repair",
+        "Complete transmission service and rebuilds.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Transmission repair work"
+      ],
+      [
+        "AC & Heating",
+        "Climate control maintenance and repair for comfort year-round.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Automotive AC service"
+      ]
+    ],
+    "services": [
+      [
+        "Routine Maintenance",
+        [
+          "Oil and filter changes",
+          "Fluid top-offs",
+          "Belt and hose inspection"
+        ]
+      ],
+      [
+        "Braking Systems",
+        [
+          "Brake pad replacement",
+          "Rotor resurfacing",
+          "Brake fluid service"
+        ]
+      ],
+      [
+        "Engine Service",
+        [
+          "Engine diagnostics",
+          "Timing belt service",
+          "Head gasket repair"
+        ]
+      ],
+      [
+        "Electrical",
+        [
+          "Battery testing",
+          "Alternator repair",
+          "Starter replacement"
+        ]
+      ],
+      [
+        "Suspension",
+        [
+          "Wheel alignment",
+          "Shock replacement",
+          "Strut service"
+        ]
+      ],
+      [
+        "Exhaust",
+        [
+          "Muffler replacement",
+          "Catalytic converter service",
+          "Exhaust leak repair"
+        ]
+      ]
+    ],
+    "about": [
+      "Expert Auto Care has served drivers with honest, high-quality repairs since opening our first bay. We treat every vehicle like our own and explain every recommendation clearly.",
+      "Our certified technicians use modern diagnostic tools and quality parts to deliver repairs that last, from daily commuters to work fleets.",
+      "Whether you need a quick oil change or complex engine work, you can count on fair pricing and dependable results."
+    ],
+    "location": "789 Mechanic Drive, Austin, TX 78704",
+    "phone": "+15125551234",
+    "phone_display": "(512) 555-1234",
+    "hours": "Monday - Saturday, 7:30 AM - 6:00 PM",
+    "footer_tag": "Reliable auto repair you can trust.",
+    "colors": {
+      "cream": "#f4f6f8",
+      "cream_soft": "#e5e9ed",
+      "dark": "#1a1a1a",
+      "mid": "#333333",
+      "light": "#555555",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#1a1a1a",
+      "danger": "#b91c1c"
+    },
+    "slug": "auto-repair",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@autorepair.com"
+  },
+  {
+    "name": "Classic Cuts Barber Shop",
+    "emoji": "\ud83d\udc88",
+    "tagline": "Traditional Barbering & Grooming",
+    "meta": "Classic Cuts offers expert haircuts, hot shaves, and premium grooming in Nashville.",
+    "eyebrow": "Walk-Ins Welcome \u2022 Master Barbers \u2022 Since 1995",
+    "headline": "Sharp Cuts, Classic Style.",
+    "hero_text": "Classic Cuts delivers precision haircuts, traditional wet shaves, and beard grooming in a welcoming neighborhood barbershop.",
+    "products_nav": "Services",
+    "services_nav": "Grooming",
+    "products_heading": "Signature Services",
+    "products_sub": "Six favorites our regulars book again and again.",
+    "services_heading": "Grooming Menu",
+    "services_sub": "Everything you need to look and feel your best.",
+    "hero_image": "photo-1595476108010-b4d1f102b1b1",
+    "about_photo": "photo-1595476108010-b4d1f102b1b1",
+    "about_alt": "Barber giving a classic haircut in the shop",
+    "products": [
+      [
+        "Classic Haircut",
+        "Traditional cut with precision and attention to detail.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Classic men's haircut at barbershop"
+      ],
+      [
+        "Hot Shave",
+        "Luxurious traditional wet shave with premium products.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Hot towel straight razor shave"
+      ],
+      [
+        "Fade & Lineup",
+        "Modern fades with crisp, clean lines.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Fade haircut with sharp lineup"
+      ],
+      [
+        "Beard Trim",
+        "Expert shaping, trimming, and conditioning.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Beard trim and shaping"
+      ],
+      [
+        "Kids Cuts",
+        "Patient, friendly cuts for children of all ages.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Kids haircut at barbershop"
+      ],
+      [
+        "Grooming Package",
+        "Cut, shave, and beard care in one visit.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Full grooming package service"
+      ]
+    ],
+    "services": [
+      [
+        "Haircuts",
+        [
+          "Classic cuts",
+          "Fades and tapers",
+          "Design cuts"
+        ]
+      ],
+      [
+        "Shaving",
+        [
+          "Hot towel shaves",
+          "Straight razor shaves",
+          "Premium shave products"
+        ]
+      ],
+      [
+        "Beard Services",
+        [
+          "Beard trim and shape",
+          "Beard oil treatments",
+          "Beard conditioning"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Hair coloring",
+          "Highlights",
+          "Eyebrow shaping"
+        ]
+      ],
+      [
+        "Kids",
+        [
+          "Kids haircuts",
+          "First haircut special",
+          "Family-friendly atmosphere"
+        ]
+      ],
+      [
+        "Packages",
+        [
+          "Walk-ins welcome",
+          "Loyalty cards",
+          "Gift certificates"
+        ]
+      ]
+    ],
+    "about": [
+      "Classic Cuts opened with a simple promise: great barbering, fair prices, and a place where everyone feels welcome. Generations of Nashville locals have made us their go-to shop.",
+      "Our barbers blend traditional techniques with modern styles, taking time to understand what you want before the first snip.",
+      "From quick trims to full grooming packages, we help you leave looking sharp and feeling confident."
+    ],
+    "location": "542 Main Street, Nashville, TN 37201",
+    "phone": "+16155551234",
+    "phone_display": "(615) 555-1234",
+    "hours": "Tuesday - Saturday, 9:00 AM - 7:00 PM",
+    "footer_tag": "Traditional barbering with modern style.",
+    "colors": {
+      "cream": "#fef7f7",
+      "cream_soft": "#fce8e8",
+      "dark": "#4a1f1f",
+      "mid": "#6b3030",
+      "light": "#8b4545",
+      "gold": "#c4956f",
+      "gold_soft": "#d9b08f",
+      "text": "#3d1a1a",
+      "danger": "#991b1b"
+    },
+    "slug": "barbershop",
+    "cta_primary": "Book a Cut",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@barbershop.com"
+  },
+  {
+    "name": "Brew Haven Cafe",
+    "emoji": "\u2615",
+    "tagline": "Specialty Coffee & Brunch",
+    "meta": "Brew Haven Cafe serves specialty coffee, fresh pastries, and brunch in Seattle.",
+    "eyebrow": "Fresh Roasts \u2022 Artisan Pastries \u2022 Cozy Atmosphere",
+    "headline": "Your Daily Cup of Comfort.",
+    "hero_text": "Brew Haven pairs carefully sourced coffee with artisan pastries and wholesome brunch in a warm neighborhood gathering place.",
+    "products_nav": "Menu",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Menu",
+    "products_sub": "Six favorites our regulars order every week.",
+    "services_heading": "What We Offer",
+    "services_sub": "Coffee, food, and experiences for every part of your day.",
+    "hero_image": "photo-1495474472287-4d71bcdd2085",
+    "about_photo": "photo-1495474472287-4d71bcdd2085",
+    "about_alt": "Barista preparing latte art at Brew Haven Cafe",
+    "products": [
+      [
+        "Espresso Drinks",
+        "Lattes, cappuccinos, and macchiatos from premium beans.",
+        "photo-1495474472287-4d71bcdd2085",
+        "Espresso latte with latte art"
+      ],
+      [
+        "Single Origin Pour-Over",
+        "Rotating beans from celebrated growing regions.",
+        "photo-1495474472287-4d71bcdd2085",
+        "Pour-over coffee brewing"
+      ],
+      [
+        "Fresh Pastries",
+        "Croissants, muffins, and cakes baked each morning.",
+        "photo-1555507036-ab1f4038808a",
+        "Fresh bakery pastries display"
+      ],
+      [
+        "Avocado Toast",
+        "Smashed avocado on sourdough with seasonal toppings.",
+        "photo-1525351484163-7529414344d8",
+        "Avocado toast brunch plate"
+      ],
+      [
+        "Seasonal Salads",
+        "Greens, grains, and house dressings for lunch.",
+        "photo-1546069901-ba9599a7e63c",
+        "Fresh seasonal salad bowl"
+      ],
+      [
+        "Cold Brew",
+        "Smooth cold brew and iced seasonal drinks.",
+        "photo-1495474472287-4d71bcdd2085",
+        "Iced cold brew coffee"
+      ]
+    ],
+    "services": [
+      [
+        "Beverages",
+        [
+          "Espresso drinks",
+          "Specialty lattes",
+          "Herbal teas"
+        ]
+      ],
+      [
+        "Breakfast",
+        [
+          "Omelets",
+          "Breakfast sandwiches",
+          "Yogurt bowls"
+        ]
+      ],
+      [
+        "Lunch",
+        [
+          "Fresh salads",
+          "Gourmet sandwiches",
+          "Seasonal soups"
+        ]
+      ],
+      [
+        "Baked Goods",
+        [
+          "Daily pastries",
+          "Artisan bread",
+          "Gluten-free options"
+        ]
+      ],
+      [
+        "Events",
+        [
+          "Private bookings",
+          "Coffee tastings",
+          "Catering trays"
+        ]
+      ],
+      [
+        "Retail",
+        [
+          "Whole bean coffee",
+          "Brewing gear",
+          "Gift cards"
+        ]
+      ]
+    ],
+    "about": [
+      "Brew Haven started as a small roasting project and grew into the neighborhood cafe where friends meet for coffee and conversation.",
+      "We source beans ethically and roast in small batches for peak flavor, pairing every cup with food made from scratch.",
+      "Whether you need a quick espresso or a relaxed brunch, our team is here to make your visit feel like home."
+    ],
+    "location": "321 Harbor Street, Seattle, WA 98101",
+    "phone": "+12065551234",
+    "phone_display": "(206) 555-1234",
+    "hours": "Monday - Sunday, 7:00 AM - 5:00 PM",
+    "footer_tag": "Specialty coffee and brunch done right.",
+    "colors": {
+      "cream": "#f7f3ef",
+      "cream_soft": "#ebe4dc",
+      "dark": "#3d2817",
+      "mid": "#5a3f2a",
+      "light": "#7a5a45",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#3d2817",
+      "danger": "#9a3412"
+    },
+    "slug": "cafe",
+    "cta_primary": "Explore Menu",
+    "cta_secondary": "Visit Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@cafe.com"
+  },
+  {
+    "name": "Shine Detail Studio",
+    "emoji": "\u2728",
+    "tagline": "Professional Car Detailing",
+    "meta": "Shine Detail Studio offers premium auto detailing, ceramic coating, and paint protection.",
+    "eyebrow": "Showroom Finish \u2022 Ceramic Coating \u2022 Mobile Options",
+    "headline": "Your Car, Showroom Clean.",
+    "hero_text": "Shine Detail Studio restores and protects vehicles with hand-finished detailing, paint correction, and long-lasting ceramic coatings.",
+    "products_nav": "Packages",
+    "services_nav": "Services",
+    "products_heading": "Popular Packages",
+    "products_sub": "Six detailing packages customers love.",
+    "services_heading": "Detailing Services",
+    "services_sub": "Complete care for interior, exterior, and protection.",
+    "hero_image": "photo-1486262715619-67b85e0b08d3",
+    "about_photo": "photo-1486262715619-67b85e0b08d3",
+    "about_alt": "Technician polishing a car to a mirror finish",
+    "products": [
+      [
+        "Exterior Wash & Wax",
+        "Hand wash, decontamination, and premium wax finish.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Exterior car wash and wax"
+      ],
+      [
+        "Interior Deep Clean",
+        "Vacuum, shampoo, leather care, and odor treatment.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Car interior deep cleaning"
+      ],
+      [
+        "Ceramic Coating",
+        "Multi-year paint protection with hydrophobic shine.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Ceramic coating application on vehicle"
+      ],
+      [
+        "Paint Correction",
+        "Remove swirls, scratches, and oxidation for clarity.",
+        "photo-1503376780353-7e6692767b70",
+        "Paint correction polishing"
+      ],
+      [
+        "Headlight Restoration",
+        "Restore cloudy headlights for safety and appearance.",
+        "photo-1492144534655-ae79c964c9d7",
+        "Headlight restoration service"
+      ],
+      [
+        "Fleet Detailing",
+        "Scheduled detailing for business and rental fleets.",
+        "photo-1486262715619-67b85e0b08d3",
+        "Fleet vehicles being detailed"
+      ]
+    ],
+    "services": [
+      [
+        "Exterior",
+        [
+          "Hand wash",
+          "Clay bar treatment",
+          "Wax and sealant"
+        ]
+      ],
+      [
+        "Interior",
+        [
+          "Vacuum and shampoo",
+          "Leather conditioning",
+          "Odor removal"
+        ]
+      ],
+      [
+        "Protection",
+        [
+          "Ceramic coating",
+          "Paint sealant",
+          "Clear bra film"
+        ]
+      ],
+      [
+        "Restoration",
+        [
+          "Paint correction",
+          "Headlight restore",
+          "Trim renewal"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Engine bay detail",
+          "Wheel restoration",
+          "Window tinting"
+        ]
+      ],
+      [
+        "Fleet",
+        [
+          "Volume pricing",
+          "On-site service",
+          "Maintenance plans"
+        ]
+      ]
+    ],
+    "about": [
+      "Shine Detail Studio was built by enthusiasts who believe every vehicle deserves meticulous care, from daily drivers to weekend classics.",
+      "We use professional-grade products and proven techniques to deliver depth, clarity, and protection that lasts.",
+      "Our detailers take pride in transparent packages, consistent results, and cars that look better than the day they left the lot."
+    ],
+    "location": "1020 Auto Boulevard, Phoenix, AZ 85001",
+    "phone": "+16025551234",
+    "phone_display": "(602) 555-1234",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Premium detailing for a lasting shine.",
+    "colors": {
+      "cream": "#f8fafc",
+      "cream_soft": "#eef2f7",
+      "dark": "#0f172a",
+      "mid": "#1e3a5f",
+      "light": "#475569",
+      "gold": "#38bdf8",
+      "gold_soft": "#7dd3fc",
+      "text": "#0f172a",
+      "danger": "#ef4444"
+    },
+    "slug": "car-detailing",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@cardetailing.com"
+  },
+  {
+    "name": "Savory Events Catering",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "tagline": "Event Catering & Private Dining",
+    "meta": "Savory Events Catering provides custom menus for weddings, corporate events, and celebrations.",
+    "eyebrow": "Custom Menus \u2022 Full Service \u2022 Memorable Events",
+    "headline": "Food That Makes Events Unforgettable.",
+    "hero_text": "Savory Events designs tailored menus and flawless service for weddings, corporate gatherings, and private celebrations of every size.",
+    "products_nav": "Menus",
+    "services_nav": "Event Types",
+    "products_heading": "Signature Menu Highlights",
+    "products_sub": "Six dishes guests always remember.",
+    "services_heading": "Event Catering",
+    "services_sub": "Full-service catering for every occasion.",
+    "hero_image": "photo-1555244162-803834f70033",
+    "about_photo": "photo-1414235077428-338989a2e8c0",
+    "about_alt": "Elegant catered dinner table setting",
+    "products": [
+      [
+        "Wedding Receptions",
+        "Multi-course dinners and cocktail receptions tailored to your day.",
+        "photo-1519225421980-715cb0215aed",
+        "Elegant wedding reception dinner"
+      ],
+      [
+        "Corporate Luncheons",
+        "Professional menus for meetings, trainings, and conferences.",
+        "photo-1555244162-803834f70033",
+        "Corporate catered luncheon spread"
+      ],
+      [
+        "Cocktail Hour Bites",
+        "Passed appetizers and grazing stations for mingling guests.",
+        "photo-1551218808-94e220e084d2",
+        "Cocktail hour appetizer display"
+      ],
+      [
+        "Buffet Stations",
+        "Themed buffets with live action stations and seasonal ingredients.",
+        "photo-1555244162-803834f70033",
+        "Catering buffet station setup"
+      ],
+      [
+        "Private Chef Dinners",
+        "Intimate multi-course experiences in your home or venue.",
+        "photo-1414235077428-338989a2e8c0",
+        "Private chef plated dinner"
+      ],
+      [
+        "Dessert Tables",
+        "Custom sweets, cakes, and display tables for celebrations.",
+        "photo-1414235077428-338989a2e8c0",
+        "Wedding dessert table display"
+      ]
+    ],
+    "services": [
+      [
+        "Weddings",
+        [
+          "Tastings and planning",
+          "Day-of coordination",
+          "Bar service"
+        ]
+      ],
+      [
+        "Corporate",
+        [
+          "Boxed lunches",
+          "Gala dinners",
+          "Brand activations"
+        ]
+      ],
+      [
+        "Social",
+        [
+          "Birthdays",
+          "Anniversaries",
+          "Holiday parties"
+        ]
+      ],
+      [
+        "Menus",
+        [
+          "Farm-to-table",
+          "Global cuisine",
+          "Dietary accommodations"
+        ]
+      ],
+      [
+        "Service",
+        [
+          "Staffing and rentals",
+          "Setup and cleanup",
+          "Timeline management"
+        ]
+      ],
+      [
+        "Add-Ons",
+        [
+          "Floral styling partners",
+          "Custom signage",
+          "Late-night snacks"
+        ]
+      ]
+    ],
+    "about": [
+      "Savory Events began in a commercial kitchen with a passion for hospitality and food that tells a story.",
+      "Our chefs collaborate with clients to build menus around seasonality, dietary needs, and the mood of each event.",
+      "From intimate dinners to thousand-guest galas, we deliver thoughtful food and seamless service."
+    ],
+    "location": "88 Culinary Way, Chicago, IL 60601",
+    "phone": "+13125551234",
+    "phone_display": "(312) 555-1234",
+    "hours": "By appointment, seven days a week",
+    "footer_tag": "Catering crafted for memorable gatherings.",
+    "colors": {
+      "cream": "#faf6f1",
+      "cream_soft": "#efe6da",
+      "dark": "#3d2c1e",
+      "mid": "#5c4332",
+      "light": "#8b6f47",
+      "gold": "#c4956f",
+      "gold_soft": "#dcc4a8",
+      "text": "#3d2c1e",
+      "danger": "#9a3412"
+    },
+    "slug": "catering-service",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@cateringservice.com"
+  },
+  {
+    "name": "Align Wellness Chiropractic",
+    "emoji": "\ud83e\uddb4",
+    "tagline": "Chiropractic Care & Wellness",
+    "meta": "Align Wellness Chiropractic provides spinal care, pain relief, and holistic wellness plans.",
+    "eyebrow": "Gentle Adjustments \u2022 Pain Relief \u2022 Whole-Body Wellness",
+    "headline": "Move Better, Feel Better.",
+    "hero_text": "Align Wellness Chiropractic helps patients recover from pain, improve mobility, and build healthier habits through personalized chiropractic care.",
+    "products_nav": "Treatments",
+    "services_nav": "Programs",
+    "products_heading": "Core Treatments",
+    "products_sub": "Six approaches we use to support your recovery.",
+    "services_heading": "Care Programs",
+    "services_sub": "Integrated plans for lasting wellness.",
+    "hero_image": "photo-1576091160399-112ba8d25d1d",
+    "about_photo": "photo-1579684385127-1ef15d508118",
+    "about_alt": "Chiropractor performing a gentle spinal adjustment",
+    "products": [
+      [
+        "Spinal Adjustments",
+        "Precise adjustments to restore alignment and reduce nerve irritation.",
+        "photo-1579684385127-1ef15d508118",
+        "Chiropractic spinal adjustment"
+      ],
+      [
+        "Sports Injury Care",
+        "Treatment for strains, sprains, and performance-related pain.",
+        "photo-1576091160550-2173dba999ef",
+        "Sports injury chiropractic treatment"
+      ],
+      [
+        "Posture Correction",
+        "Assessment and exercises to improve desk and daily posture.",
+        "photo-1506126613408-eca07ce68773",
+        "Posture assessment and correction"
+      ],
+      [
+        "Prenatal Care",
+        "Gentle techniques to support comfort through pregnancy.",
+        "photo-1559839734-2b71ea197ec2",
+        "Prenatal chiropractic wellness session"
+      ],
+      [
+        "Migraine Relief",
+        "Neck and upper back care to reduce headache frequency.",
+        "photo-1576091160399-112ba8d25d1d",
+        "Patient receiving headache relief care"
+      ],
+      [
+        "Wellness Plans",
+        "Ongoing maintenance care for mobility and prevention.",
+        "photo-1534438327276-14e5300c3a48",
+        "Wellness chiropractic consultation"
+      ]
+    ],
+    "services": [
+      [
+        "Pain Relief",
+        [
+          "Back and neck pain",
+          "Sciatica support",
+          "Joint discomfort"
+        ]
+      ],
+      [
+        "Recovery",
+        [
+          "Auto accident care",
+          "Work injury rehab",
+          "Post-surgery support"
+        ]
+      ],
+      [
+        "Wellness",
+        [
+          "Nutrition guidance",
+          "Stretch programs",
+          "Ergonomic coaching"
+        ]
+      ],
+      [
+        "Family",
+        [
+          "Pediatric visits",
+          "Senior mobility",
+          "Athlete maintenance"
+        ]
+      ],
+      [
+        "Therapies",
+        [
+          "Soft tissue work",
+          "Therapeutic exercise",
+          "Lifestyle counseling"
+        ]
+      ],
+      [
+        "Plans",
+        [
+          "New patient exams",
+          "Maintenance schedules",
+          "Corporate wellness"
+        ]
+      ]
+    ],
+    "about": [
+      "Align Wellness was founded to make chiropractic care approachable, evidence-informed, and focused on long-term health\u2014not just quick fixes.",
+      "We listen first, then build treatment plans that combine adjustments, movement, and education tailored to your goals.",
+      "Our clinic is a calm space where patients of all ages find relief and the tools to stay active."
+    ],
+    "location": "210 Wellness Drive, Minneapolis, MN 55401",
+    "phone": "+16125551234",
+    "phone_display": "(612) 555-1234",
+    "hours": "Monday - Friday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Chiropractic care for lasting relief.",
+    "colors": {
+      "cream": "#f0faf9",
+      "cream_soft": "#e0f2f1",
+      "dark": "#0f3d3e",
+      "mid": "#14746f",
+      "light": "#2d9d91",
+      "gold": "#f4a261",
+      "gold_soft": "#f8c9a0",
+      "text": "#134e4a",
+      "danger": "#c2410c"
+    },
+    "slug": "chiropractor",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@chiropractor.com"
+  },
+  {
+    "name": "Sparkle Home Cleaning",
+    "emoji": "\u2728",
+    "tagline": "Residential & Commercial Cleaning",
+    "meta": "Sparkle Home Cleaning offers reliable house cleaning and office janitorial services.",
+    "eyebrow": "Insured Teams \u2022 Eco Options \u2022 Satisfaction Guaranteed",
+    "headline": "A Cleaner Space, More Free Time.",
+    "hero_text": "Sparkle Home Cleaning delivers thorough, dependable cleaning for homes and offices with trained teams and flexible scheduling.",
+    "products_nav": "Services",
+    "services_nav": "Plans",
+    "products_heading": "Popular Cleaning Services",
+    "products_sub": "Six services booked most often by our clients.",
+    "services_heading": "Cleaning Plans",
+    "services_sub": "Flexible options for homes and businesses.",
+    "hero_image": "photo-1581578731548-c64695cc6952",
+    "about_photo": "photo-1628177142898-93e36e4e3a50",
+    "about_alt": "Professional cleaner sanitizing a modern kitchen",
+    "products": [
+      [
+        "Standard Home Clean",
+        "Dusting, vacuuming, bathrooms, and kitchen surfaces.",
+        "photo-1628177142898-93e36e4e3a50",
+        "Home kitchen cleaning service"
+      ],
+      [
+        "Deep Cleaning",
+        "Detailed scrubbing for move-ins, move-outs, and seasonal refreshes.",
+        "photo-1581578731548-c64695cc6952",
+        "Deep cleaning living room"
+      ],
+      [
+        "Office Janitorial",
+        "Nightly or weekly cleaning for workplaces and common areas.",
+        "photo-1497366216548-37526070297c",
+        "Office janitorial cleaning"
+      ],
+      [
+        "Post-Construction",
+        "Dust and debris removal after renovations and builds.",
+        "photo-1503387762-592deb58ef4e",
+        "Post-construction cleanup"
+      ],
+      [
+        "Carpet & Upholstery",
+        "Steam cleaning for carpets, rugs, and furniture.",
+        "photo-1583847268964-b28dc8f51f92",
+        "Carpet steam cleaning service"
+      ],
+      [
+        "Move-Out Service",
+        "Full top-to-bottom cleaning for rental turnovers.",
+        "photo-1581578731548-c64695cc6952",
+        "Move-out apartment cleaning"
+      ]
+    ],
+    "services": [
+      [
+        "Residential",
+        [
+          "Weekly and biweekly",
+          "One-time deep cleans",
+          "Airbnb turnovers"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Office suites",
+          "Retail spaces",
+          "Medical facilities"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Inside appliances",
+          "Window interiors",
+          "Garage sweep"
+        ]
+      ],
+      [
+        "Green",
+        [
+          "Eco-friendly products",
+          "Fragrance-free options",
+          "Pet-safe formulas"
+        ]
+      ],
+      [
+        "Add-Ons",
+        [
+          "Laundry service",
+          "Organizing help",
+          "Pantry restock"
+        ]
+      ],
+      [
+        "Plans",
+        [
+          "Custom checklists",
+          "Keyholder service",
+          "Priority scheduling"
+        ]
+      ]
+    ],
+    "about": [
+      "Sparkle Home Cleaning started with a small crew and a commitment to showing up on time and doing the job right.",
+      "Every team member is trained, background-checked, and equipped to deliver consistent results with respect for your space.",
+      "We believe a clean environment improves wellbeing, productivity, and peace of mind."
+    ],
+    "location": "445 Clean Street, Atlanta, GA 30301",
+    "phone": "+14045551234",
+    "phone_display": "(404) 555-1234",
+    "hours": "Monday - Saturday, 7:00 AM - 7:00 PM",
+    "footer_tag": "Professional cleaning you can count on.",
+    "colors": {
+      "cream": "#f0f9ff",
+      "cream_soft": "#e0f2fe",
+      "dark": "#0c4a6e",
+      "mid": "#0369a1",
+      "light": "#38bdf8",
+      "gold": "#f59e0b",
+      "gold_soft": "#fcd34d",
+      "text": "#0c4a6e",
+      "danger": "#dc2626"
+    },
+    "slug": "cleaning-services",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@cleaningservices.com"
+  },
+  {
+    "name": "Bright Smile Dental",
+    "emoji": "\ud83e\uddb7",
+    "tagline": "Family & Cosmetic Dentistry",
+    "meta": "Bright Smile Dental provides preventive, cosmetic, and restorative dental care for the whole family.",
+    "eyebrow": "Gentle Care \u2022 Modern Technology \u2022 Family Friendly",
+    "headline": "Healthy Smiles for Every Age.",
+    "hero_text": "Bright Smile Dental combines compassionate care with modern technology for cleanings, cosmetics, and restorative treatments in a comfortable office.",
+    "products_nav": "Treatments",
+    "services_nav": "Dental Care",
+    "products_heading": "Featured Treatments",
+    "products_sub": "Six services that keep smiles healthy and confident.",
+    "services_heading": "Complete Dental Care",
+    "services_sub": "Preventive, cosmetic, and restorative options.",
+    "hero_image": "photo-1609840114035-3c981b782dfe",
+    "about_photo": "photo-1609840114035-3c981b782dfe",
+    "about_alt": "Dentist examining a patient in a modern dental office",
+    "products": [
+      [
+        "Routine Cleanings",
+        "Professional cleanings and exams to prevent decay.",
+        "photo-1609840114035-3c981b782dfe",
+        "Dental hygienist cleaning teeth"
+      ],
+      [
+        "Teeth Whitening",
+        "In-office and take-home whitening for a brighter smile.",
+        "photo-1609840114035-3c981b782dfe",
+        "Teeth whitening treatment"
+      ],
+      [
+        "Dental Implants",
+        "Permanent replacements for missing teeth.",
+        "photo-1609840114035-3c981b782dfe",
+        "Dental implant consultation"
+      ],
+      [
+        "Invisalign",
+        "Clear aligners for straighter teeth without metal braces.",
+        "photo-1609840114035-3c981b782dfe",
+        "Invisalign clear aligners"
+      ],
+      [
+        "Pediatric Dentistry",
+        "Gentle care designed for children and teens.",
+        "photo-1609840114035-3c981b782dfe",
+        "Pediatric dental checkup"
+      ],
+      [
+        "Emergency Care",
+        "Same-day appointments for tooth pain and injuries.",
+        "photo-1609840114035-3c981b782dfe",
+        "Emergency dental care"
+      ]
+    ],
+    "services": [
+      [
+        "Preventive",
+        [
+          "Cleanings and exams",
+          "Fluoride treatments",
+          "Sealants"
+        ]
+      ],
+      [
+        "Cosmetic",
+        [
+          "Whitening",
+          "Veneers",
+          "Smile design"
+        ]
+      ],
+      [
+        "Restorative",
+        [
+          "Fillings and crowns",
+          "Implants",
+          "Bridges"
+        ]
+      ],
+      [
+        "Orthodontics",
+        [
+          "Invisalign",
+          "Retainers",
+          "Bite correction"
+        ]
+      ],
+      [
+        "Family",
+        [
+          "Kids dentistry",
+          "Senior care",
+          "Sedation options"
+        ]
+      ],
+      [
+        "Technology",
+        [
+          "Digital X-rays",
+          "3D imaging",
+          "Laser dentistry"
+        ]
+      ]
+    ],
+    "about": [
+      "Bright Smile Dental was created to make quality dentistry welcoming for patients who may feel anxious about the chair.",
+      "Our team explains every step, uses gentle techniques, and invests in technology that improves comfort and outcomes.",
+      "We partner with families for lifelong oral health\u2014from first visits to cosmetic transformations."
+    ],
+    "location": "77 Smile Avenue, Boston, MA 02101",
+    "phone": "+16175551234",
+    "phone_display": "(617) 555-1234",
+    "hours": "Monday - Friday, 8:00 AM - 5:30 PM",
+    "footer_tag": "Gentle dentistry for confident smiles.",
+    "colors": {
+      "cream": "#f0f9ff",
+      "cream_soft": "#e0f2fe",
+      "dark": "#0c4a6e",
+      "mid": "#0369a1",
+      "light": "#38bdf8",
+      "gold": "#f59e0b",
+      "gold_soft": "#fcd34d",
+      "text": "#0c4a6e",
+      "danger": "#dc2626"
+    },
+    "slug": "dentist",
+    "cta_primary": "View Treatments",
+    "cta_secondary": "Book Appointment",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@dentist.com"
+  },
+  {
+    "name": "Prestige Dry Cleaners",
+    "emoji": "\ud83d\udc54",
+    "tagline": "Dry Cleaning & Garment Care",
+    "meta": "Prestige Dry Cleaners offers expert dry cleaning, alterations, and specialty garment care.",
+    "eyebrow": "Expert Care \u2022 Fast Turnaround \u2022 Delicate Fabrics",
+    "headline": "Garments Cared For Like New.",
+    "hero_text": "Prestige Dry Cleaners protects your wardrobe with professional cleaning, pressing, and alterations for everyday and specialty pieces.",
+    "products_nav": "Services",
+    "services_nav": "Specialty",
+    "products_heading": "Core Services",
+    "products_sub": "Six garment care services our customers rely on.",
+    "services_heading": "Garment Care Options",
+    "services_sub": "Cleaning and finishing for every fabric.",
+    "hero_image": "photo-1454165804606-c3d57bc86b40",
+    "about_photo": "photo-1454165804606-c3d57bc86b40",
+    "about_alt": "Dry cleaner pressing a suit jacket",
+    "products": [
+      [
+        "Dry Cleaning",
+        "Solvent-based cleaning for suits, dresses, and delicates.",
+        "photo-1454165804606-c3d57bc86b40",
+        "Dry cleaned suits on hangers"
+      ],
+      [
+        "Shirt Laundry",
+        "Pressed shirts with crisp collars and cuffs.",
+        "photo-1454165804606-c3d57bc86b40",
+        "Laundered dress shirts"
+      ],
+      [
+        "Wedding Gown Care",
+        "Preservation and cleaning for bridal gowns.",
+        "photo-1519741497674-611481863552",
+        "Wedding dress preservation"
+      ],
+      [
+        "Leather & Suede",
+        "Specialized cleaning for leather jackets and bags.",
+        "photo-1551028719-00167b16eac5",
+        "Leather garment care"
+      ],
+      [
+        "Household Items",
+        "Drapes, comforters, and table linens.",
+        "photo-1583847268964-b28dc8f51f92",
+        "Household linen cleaning"
+      ],
+      [
+        "Alterations",
+        "Hemming, tailoring, and repairs while you clean.",
+        "photo-1454165804606-c3d57bc86b40",
+        "Garment alterations service"
+      ]
+    ],
+    "services": [
+      [
+        "Cleaning",
+        [
+          "Dry clean",
+          "Launder and press",
+          "Hand wash delicates"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Wedding gowns",
+          "Leather and suede",
+          "Comforters"
+        ]
+      ],
+      [
+        "Finishing",
+        [
+          "Starch options",
+          "Crease repair",
+          "Button replacement"
+        ]
+      ],
+      [
+        "Alterations",
+        [
+          "Hem pants",
+          "Take in waists",
+          "Zipper repair"
+        ]
+      ],
+      [
+        "Convenience",
+        [
+          "Same-day rush",
+          "Pickup and delivery",
+          "Subscription plans"
+        ]
+      ],
+      [
+        "Business",
+        [
+          "Uniform service",
+          "Hotel linens",
+          "Retail partnerships"
+        ]
+      ]
+    ],
+    "about": [
+      "Prestige Dry Cleaners has served professionals and families who expect their clothes to look impeccable and last longer.",
+      "We train staff on fabric codes, stain chemistry, and finishing standards that protect your investment pieces.",
+      "From weekly shirt service to heirloom gown preservation, every garment receives careful attention."
+    ],
+    "location": "12 Fabric Lane, New York, NY 10001",
+    "phone": "+12125551234",
+    "phone_display": "(212) 555-1234",
+    "hours": "Monday - Saturday, 7:00 AM - 7:00 PM",
+    "footer_tag": "Expert garment care with fast service.",
+    "colors": {
+      "cream": "#f5f7fa",
+      "cream_soft": "#e8ecf0",
+      "dark": "#1a2332",
+      "mid": "#334155",
+      "light": "#64748b",
+      "gold": "#eab308",
+      "gold_soft": "#fde047",
+      "text": "#1e293b",
+      "danger": "#dc2626"
+    },
+    "slug": "dry-cleaner",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@drycleaner.com"
+  },
+  {
+    "name": "VoltPro Electric",
+    "emoji": "\u26a1",
+    "tagline": "Licensed Electrical Services",
+    "meta": "VoltPro Electric provides residential and commercial electrical repair, installation, and upgrades.",
+    "eyebrow": "Licensed \u2022 Insured \u2022 24/7 Emergency",
+    "headline": "Power You Can Trust.",
+    "hero_text": "VoltPro Electric delivers safe, code-compliant electrical work for homes and businesses\u2014from panel upgrades to emergency repairs.",
+    "products_nav": "Services",
+    "services_nav": "Capabilities",
+    "products_heading": "Popular Electrical Services",
+    "products_sub": "Six jobs our electricians handle every day.",
+    "services_heading": "Electrical Solutions",
+    "services_sub": "Residential and commercial expertise.",
+    "hero_image": "photo-1621905251918-48416bd8575a",
+    "about_photo": "photo-1621905251918-48416bd8575a",
+    "about_alt": "Licensed electrician working on a residential panel",
+    "products": [
+      [
+        "Panel Upgrades",
+        "Modern panels for safety and higher capacity.",
+        "photo-1621905251918-48416bd8575a",
+        "Electrical panel upgrade"
+      ],
+      [
+        "Outlet & Switch Install",
+        "New circuits, GFCI outlets, and dimmer switches.",
+        "photo-1558618666-fcd25c85cd64",
+        "Installing electrical outlets"
+      ],
+      [
+        "Lighting Design",
+        "Recessed, pendant, and outdoor lighting installs.",
+        "photo-1558618666-fcd25c85cd64",
+        "Residential lighting installation"
+      ],
+      [
+        "EV Charger Install",
+        "Home charging stations for electric vehicles.",
+        "photo-1550355291-bbee04a92027",
+        "EV home charger installation"
+      ],
+      [
+        "Emergency Repairs",
+        "Fast response for outages, sparks, and tripped breakers.",
+        "photo-1621905251918-48416bd8575a",
+        "Emergency electrical repair"
+      ],
+      [
+        "Commercial Wiring",
+        "Office build-outs, signage, and maintenance contracts.",
+        "photo-1503387762-592deb58ef4e",
+        "Commercial electrical wiring"
+      ]
+    ],
+    "services": [
+      [
+        "Residential",
+        [
+          "Rewiring",
+          "Ceiling fans",
+          "Smart home devices"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Tenant improvements",
+          "Lighting retrofits",
+          "Generator hookups"
+        ]
+      ],
+      [
+        "Safety",
+        [
+          "Smoke detectors",
+          "Surge protection",
+          "Code corrections"
+        ]
+      ],
+      [
+        "Upgrades",
+        [
+          "200-amp service",
+          "Subpanels",
+          "Meter replacements"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Hot tub circuits",
+          "Appliance lines",
+          "Landscape lighting"
+        ]
+      ],
+      [
+        "Support",
+        [
+          "24/7 emergency",
+          "Free estimates",
+          "Warranty on labor"
+        ]
+      ]
+    ],
+    "about": [
+      "VoltPro Electric was founded by master electricians committed to workmanship that protects families and businesses.",
+      "We communicate clearly, pull permits when required, and leave every job site clean and safe.",
+      "Whether you are renovating or troubleshooting an urgent issue, our team shows up prepared."
+    ],
+    "location": "900 Circuit Road, Dallas, TX 75201",
+    "phone": "+12145551234",
+    "phone_display": "(214) 555-1234",
+    "hours": "Monday - Sunday, 24-hour emergency line",
+    "footer_tag": "Licensed electrical work done right.",
+    "colors": {
+      "cream": "#f4f6f8",
+      "cream_soft": "#e5e9ed",
+      "dark": "#1a1a1a",
+      "mid": "#333333",
+      "light": "#555555",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#1a1a1a",
+      "danger": "#b91c1c"
+    },
+    "slug": "electrician",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@electrician.com"
+  },
+  {
+    "name": "Luxe Strand Salon",
+    "emoji": "\ud83d\udc87",
+    "tagline": "Hair Styling & Color Studio",
+    "meta": "Luxe Strand Salon offers cuts, color, treatments, and styling in a modern studio.",
+    "eyebrow": "Expert Colorists \u2022 Premium Products \u2022 Relaxing Studio",
+    "headline": "Hair That Reflects You.",
+    "hero_text": "Luxe Strand Salon creates personalized cuts, color, and treatments that enhance your style in a welcoming, upscale studio.",
+    "products_nav": "Services",
+    "services_nav": "Menu",
+    "products_heading": "Signature Services",
+    "products_sub": "Six services clients book again and again.",
+    "services_heading": "Salon Menu",
+    "services_sub": "Cuts, color, and care for every hair type.",
+    "hero_image": "photo-1560066984-138dadb4c035",
+    "about_photo": "photo-1560066984-138dadb4c035",
+    "about_alt": "Stylist blow-drying hair in a modern salon",
+    "products": [
+      [
+        "Precision Cut",
+        "Custom cuts shaped to your face and lifestyle.",
+        "photo-1560066984-138dadb4c035",
+        "Haircut in modern salon"
+      ],
+      [
+        "Balayage Color",
+        "Hand-painted highlights for natural dimension.",
+        "photo-1560066984-138dadb4c035",
+        "Balayage hair coloring"
+      ],
+      [
+        "Full Color",
+        "Rich single-process and double-process color.",
+        "photo-1595476108010-b4d1f102b1b1",
+        "Full hair color application"
+      ],
+      [
+        "Keratin Treatment",
+        "Smoothing treatments for frizz and shine.",
+        "photo-1560066984-138dadb4c035",
+        "Keratin hair treatment"
+      ],
+      [
+        "Blowout & Style",
+        "Event-ready styling and everyday blowouts.",
+        "photo-1519699047748-de8e457a634e",
+        "Professional blowout styling"
+      ],
+      [
+        "Bridal Hair",
+        "Trials and day-of styling for weddings.",
+        "photo-1519741497674-611481863552",
+        "Bridal hair styling"
+      ]
+    ],
+    "services": [
+      [
+        "Cutting",
+        [
+          "Women and men cuts",
+          "Kids cuts",
+          "Bang trims"
+        ]
+      ],
+      [
+        "Color",
+        [
+          "Highlights",
+          "Root touch-ups",
+          "Color correction"
+        ]
+      ],
+      [
+        "Treatments",
+        [
+          "Deep conditioning",
+          "Scalp therapy",
+          "Extensions consult"
+        ]
+      ],
+      [
+        "Styling",
+        [
+          "Formal updos",
+          "Blowouts",
+          "Curl sets"
+        ]
+      ],
+      [
+        "Bridal",
+        [
+          "Trials",
+          "Day-of teams",
+          "Travel styling"
+        ]
+      ],
+      [
+        "Retail",
+        [
+          "Professional products",
+          "Take-home care",
+          "Gift cards"
+        ]
+      ]
+    ],
+    "about": [
+      "Luxe Strand Salon was built by stylists who believe great hair starts with listening and honest recommendations.",
+      "We invest in ongoing education and premium products so color stays vibrant and hair stays healthy.",
+      "Our studio is designed for relaxation\u2014from consultation to the final mirror moment."
+    ],
+    "location": "55 Style Boulevard, Los Angeles, CA 90001",
+    "phone": "+12135551234",
+    "phone_display": "(213) 555-1234",
+    "hours": "Tuesday - Saturday, 9:00 AM - 8:00 PM",
+    "footer_tag": "Salon artistry for every style.",
+    "colors": {
+      "cream": "#fdf6f8",
+      "cream_soft": "#f8e8ee",
+      "dark": "#4a1f2e",
+      "mid": "#6b3045",
+      "light": "#9b5a72",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#3d1f2a",
+      "danger": "#b91c1c"
+    },
+    "slug": "hair-salon",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@hairsalon.com"
+  },
+  {
+    "name": "ComfortAir HVAC",
+    "emoji": "\u2744\ufe0f",
+    "tagline": "Heating & Cooling Experts",
+    "meta": "ComfortAir HVAC installs, repairs, and maintains heating and air conditioning systems.",
+    "eyebrow": "Licensed Techs \u2022 Energy Efficient \u2022 Same-Day Service",
+    "headline": "Comfort in Every Season.",
+    "hero_text": "ComfortAir HVAC keeps homes and businesses comfortable with expert installation, repair, and maintenance for furnaces and air conditioners.",
+    "products_nav": "Services",
+    "services_nav": "Systems",
+    "products_heading": "HVAC Services",
+    "products_sub": "Six essential heating and cooling services.",
+    "services_heading": "System Solutions",
+    "services_sub": "Installation, repair, and maintenance plans.",
+    "hero_image": "photo-1581094794329-c8112a89af12",
+    "about_photo": "photo-1504307651254-35680f356dfd",
+    "about_alt": "HVAC technician servicing an air conditioning unit",
+    "products": [
+      [
+        "AC Installation",
+        "High-efficiency cooling systems sized for your home.",
+        "photo-1581094794329-c8112a89af12",
+        "Air conditioner installation"
+      ],
+      [
+        "Furnace Repair",
+        "Fast diagnostics and repair for heating outages.",
+        "photo-1581094794329-c8112a89af12",
+        "Furnace repair service"
+      ],
+      [
+        "Seasonal Tune-Ups",
+        "Spring and fall maintenance for peak performance.",
+        "photo-1504307651254-35680f356dfd",
+        "HVAC seasonal maintenance"
+      ],
+      [
+        "Duct Cleaning",
+        "Improved airflow and indoor air quality.",
+        "photo-1581094794329-c8112a89af12",
+        "Air duct cleaning service"
+      ],
+      [
+        "Thermostat Upgrades",
+        "Smart thermostats for comfort and savings.",
+        "photo-1558002038-1055907df827",
+        "Smart thermostat installation"
+      ],
+      [
+        "Commercial HVAC",
+        "Rooftop units and maintenance for businesses.",
+        "photo-1503387762-592deb58ef4e",
+        "Commercial HVAC service"
+      ]
+    ],
+    "services": [
+      [
+        "Cooling",
+        [
+          "Central AC",
+          "Mini-splits",
+          "Heat pumps"
+        ]
+      ],
+      [
+        "Heating",
+        [
+          "Gas furnaces",
+          "Boilers",
+          "Radiant systems"
+        ]
+      ],
+      [
+        "Air Quality",
+        [
+          "Filtration",
+          "Humidifiers",
+          "UV purifiers"
+        ]
+      ],
+      [
+        "Maintenance",
+        [
+          "Annual plans",
+          "Filter delivery",
+          "Priority scheduling"
+        ]
+      ],
+      [
+        "Emergency",
+        [
+          "24/7 no-heat calls",
+          "Refrigerant leaks",
+          "Breaker trips"
+        ]
+      ],
+      [
+        "Efficiency",
+        [
+          "Energy audits",
+          "Rebate assistance",
+          "Zoning systems"
+        ]
+      ]
+    ],
+    "about": [
+      "ComfortAir HVAC began with a focus on honest diagnostics\u2014not unnecessary replacements.",
+      "Our technicians are licensed, continuously trained, and equipped to service all major brands.",
+      "We help customers lower energy bills while staying comfortable year-round."
+    ],
+    "location": "300 Climate Way, Houston, TX 77001",
+    "phone": "+17135551234",
+    "phone_display": "(713) 555-1234",
+    "hours": "Monday - Saturday, 7:00 AM - 8:00 PM",
+    "footer_tag": "Heating and cooling you can rely on.",
+    "colors": {
+      "cream": "#f8fafc",
+      "cream_soft": "#eef2f7",
+      "dark": "#0f172a",
+      "mid": "#1e3a5f",
+      "light": "#475569",
+      "gold": "#38bdf8",
+      "gold_soft": "#7dd3fc",
+      "text": "#0f172a",
+      "danger": "#ef4444"
+    },
+    "slug": "hvac-services",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@hvacservices.com"
+  },
+  {
+    "name": "GreenScape Landscaping",
+    "emoji": "\ud83c\udf3f",
+    "tagline": "Landscape Design & Maintenance",
+    "meta": "GreenScape Landscaping designs and maintains beautiful outdoor spaces.",
+    "eyebrow": "Design \u2022 Install \u2022 Year-Round Care",
+    "headline": "Outdoor Spaces You Love.",
+    "hero_text": "GreenScape Landscaping transforms yards with thoughtful design, quality installation, and reliable maintenance programs.",
+    "products_nav": "Projects",
+    "services_nav": "Services",
+    "products_heading": "Featured Projects",
+    "products_sub": "Six landscaping services homeowners request most.",
+    "services_heading": "Landscape Services",
+    "services_sub": "Design, build, and maintain your property.",
+    "hero_image": "photo-1416879595882-3373a0480b5b",
+    "about_photo": "photo-1416879595882-3373a0480b5b",
+    "about_alt": "Landscaper maintaining a lush green lawn and garden",
+    "products": [
+      [
+        "Lawn Maintenance",
+        "Mowing, edging, fertilization, and weed control.",
+        "photo-1416879595882-3373a0480b5b",
+        "Professional lawn mowing service"
+      ],
+      [
+        "Garden Design",
+        "Planting beds, shrubs, and seasonal color plans.",
+        "photo-1416879595882-3373a0480b5b",
+        "Landscape garden design"
+      ],
+      [
+        "Hardscaping",
+        "Patios, walkways, and retaining walls.",
+        "photo-1600585154340-be6161a56a0c",
+        "Stone patio hardscaping"
+      ],
+      [
+        "Irrigation Systems",
+        "Smart sprinklers and drip irrigation installs.",
+        "photo-1416879595882-3373a0480b5b",
+        "Sprinkler irrigation installation"
+      ],
+      [
+        "Tree & Shrub Care",
+        "Pruning, planting, and health treatments.",
+        "photo-1416879595882-3373a0480b5b",
+        "Tree and shrub pruning"
+      ],
+      [
+        "Seasonal Cleanup",
+        "Leaf removal, mulching, and spring refreshes.",
+        "photo-1416879595882-3373a0480b5b",
+        "Seasonal yard cleanup"
+      ]
+    ],
+    "services": [
+      [
+        "Design",
+        [
+          "3D concepts",
+          "Native plant palettes",
+          "Lighting plans"
+        ]
+      ],
+      [
+        "Install",
+        [
+          "Sod and seed",
+          "Planting",
+          "Drainage solutions"
+        ]
+      ],
+      [
+        "Maintenance",
+        [
+          "Weekly mowing",
+          "Bed weeding",
+          "Mulch refresh"
+        ]
+      ],
+      [
+        "Hardscape",
+        [
+          "Pavers",
+          "Fire pits",
+          "Outdoor kitchens"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Office campuses",
+          "HOA contracts",
+          "Snow partners"
+        ]
+      ],
+      [
+        "Enhancements",
+        [
+          "Outdoor lighting",
+          "Water features",
+          "Pollinator gardens"
+        ]
+      ]
+    ],
+    "about": [
+      "GreenScape Landscaping grew from a small crew mowing lawns into a full-service team passionate about outdoor living.",
+      "We combine horticulture knowledge with practical design to create yards that look great in every season.",
+      "Our maintenance programs keep your investment thriving without the weekend workload."
+    ],
+    "location": "640 Garden Path, Portland, OR 97201",
+    "phone": "+15035551234",
+    "phone_display": "(503) 555-1234",
+    "hours": "Monday - Friday, 7:00 AM - 5:00 PM",
+    "footer_tag": "Landscapes designed to thrive.",
+    "colors": {
+      "cream": "#f4f9f4",
+      "cream_soft": "#e8f0e8",
+      "dark": "#1b3d2f",
+      "mid": "#2d5a45",
+      "light": "#4a7c59",
+      "gold": "#c9a227",
+      "gold_soft": "#e0c76a",
+      "text": "#1f3328",
+      "danger": "#b54a31"
+    },
+    "slug": "landscaping",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@landscaping.com"
+  },
+  {
+    "name": "Summit Legal Advisors",
+    "emoji": "\u2696\ufe0f",
+    "tagline": "Business & Estate Legal Consulting",
+    "meta": "Summit Legal Advisors provides business law, contracts, and estate planning guidance.",
+    "eyebrow": "Experienced Counsel \u2022 Clear Advice \u2022 Client Focused",
+    "headline": "Legal Clarity for Important Decisions.",
+    "hero_text": "Summit Legal Advisors helps individuals and businesses navigate contracts, compliance, and estate planning with practical, accessible counsel.",
+    "products_nav": "Practice Areas",
+    "services_nav": "Services",
+    "products_heading": "Core Practice Areas",
+    "products_sub": "Six areas where clients rely on our guidance.",
+    "services_heading": "Legal Services",
+    "services_sub": "Counsel for business and personal matters.",
+    "hero_image": "photo-1589829545856-d10d557cf95f",
+    "about_photo": "photo-1450101499163-c8848c66ca85",
+    "about_alt": "Attorney reviewing legal documents at a desk",
+    "products": [
+      [
+        "Business Formation",
+        "LLC, corporation, and partnership setup.",
+        "photo-1450101499163-c8848c66ca85",
+        "Business formation legal documents"
+      ],
+      [
+        "Contract Review",
+        "Negotiation and drafting for vendor and client agreements.",
+        "photo-1589829545856-d10d557cf95f",
+        "Contract review meeting"
+      ],
+      [
+        "Estate Planning",
+        "Wills, trusts, and powers of attorney.",
+        "photo-1450101499163-c8848c66ca85",
+        "Estate planning consultation"
+      ],
+      [
+        "Employment Law",
+        "Handbooks, policies, and dispute guidance.",
+        "photo-1589829545856-d10d557cf95f",
+        "Employment law advisory"
+      ],
+      [
+        "Intellectual Property",
+        "Trademark and basic IP protection strategies.",
+        "photo-1454165804606-c3d57bc86b40",
+        "Intellectual property legal advice"
+      ],
+      [
+        "Dispute Resolution",
+        "Mediation support and litigation strategy.",
+        "photo-1589829545856-d10d557cf95f",
+        "Legal dispute consultation"
+      ]
+    ],
+    "services": [
+      [
+        "Business",
+        [
+          "Entity setup",
+          "Mergers support",
+          "Regulatory compliance"
+        ]
+      ],
+      [
+        "Contracts",
+        [
+          "Commercial leases",
+          "Service agreements",
+          "NDAs"
+        ]
+      ],
+      [
+        "Estates",
+        [
+          "Wills and trusts",
+          "Probate guidance",
+          "Asset protection"
+        ]
+      ],
+      [
+        "Employment",
+        [
+          "Policy drafting",
+          "Termination counsel",
+          "Training"
+        ]
+      ],
+      [
+        "IP",
+        [
+          "Trademark filings",
+          "Licensing",
+          "Brand protection"
+        ]
+      ],
+      [
+        "Litigation",
+        [
+          "Case evaluation",
+          "Mediator prep",
+          "Court referrals"
+        ]
+      ]
+    ],
+    "about": [
+      "Summit Legal Advisors was founded to give small businesses and families access to thoughtful legal guidance without unnecessary complexity.",
+      "We explain options in plain language and focus on strategies that match your goals and risk tolerance.",
+      "Our attorneys bring courtroom experience and transactional skill to every engagement."
+    ],
+    "location": "200 Justice Plaza, Washington, DC 20001",
+    "phone": "+12025551234",
+    "phone_display": "(202) 555-1234",
+    "hours": "Monday - Friday, 9:00 AM - 6:00 PM",
+    "footer_tag": "Practical legal counsel you can trust.",
+    "colors": {
+      "cream": "#f5f7fa",
+      "cream_soft": "#e8ecf0",
+      "dark": "#1a2332",
+      "mid": "#334155",
+      "light": "#64748b",
+      "gold": "#eab308",
+      "gold_soft": "#fde047",
+      "text": "#1e293b",
+      "danger": "#dc2626"
+    },
+    "form_title": "Request Consultation",
+    "slug": "legal-consulting",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@legalconsulting.com"
+  },
+  {
+    "name": "Iron Peak Fitness",
+    "emoji": "\ud83c\udfcb\ufe0f",
+    "tagline": "Community Gym & Training",
+    "meta": "Iron Peak Fitness offers memberships, classes, and personal training in a welcoming gym.",
+    "eyebrow": "Open 24/7 \u2022 Expert Trainers \u2022 No Intimidation",
+    "headline": "Stronger Every Workout.",
+    "hero_text": "Iron Peak Fitness is your neighborhood gym for strength training, cardio, group classes, and supportive coaching.",
+    "products_nav": "Training",
+    "services_nav": "Membership",
+    "products_heading": "Training Highlights",
+    "products_sub": "Six ways members build strength and stamina.",
+    "services_heading": "Membership Options",
+    "services_sub": "Flexible plans for every fitness level.",
+    "hero_image": "photo-1534438327276-14e5300c3a48",
+    "about_photo": "photo-1571902943202-507ec2618e8f",
+    "about_alt": "Members lifting weights in a modern gym",
+    "products": [
+      [
+        "Strength Training",
+        "Free weights, racks, and machines for all levels.",
+        "photo-1571902943202-507ec2618e8f",
+        "Weight training in gym"
+      ],
+      [
+        "Group Classes",
+        "HIIT, spin, yoga, and strength circuits on schedule.",
+        "photo-1518611012118-696072aa579a",
+        "Group fitness class"
+      ],
+      [
+        "Personal Training",
+        "One-on-one programming and form coaching.",
+        "photo-1534438327276-14e5300c3a48",
+        "Personal trainer with client"
+      ],
+      [
+        "Cardio Zone",
+        "Treadmills, rowers, and bikes with entertainment.",
+        "photo-1534438327276-14e5300c3a48",
+        "Cardio equipment in gym"
+      ],
+      [
+        "Functional Area",
+        "Kettlebells, turf, and sleds for athletic training.",
+        "photo-1517836357463-d25dfeac3438",
+        "Functional fitness training"
+      ],
+      [
+        "Recovery Lounge",
+        "Stretching tools, foam rollers, and mobility sessions.",
+        "photo-1506126613408-eca07ce68773",
+        "Gym recovery stretching area"
+      ]
+    ],
+    "services": [
+      [
+        "Memberships",
+        [
+          "Month-to-month",
+          "Annual savings",
+          "Student rates"
+        ]
+      ],
+      [
+        "Classes",
+        [
+          "Spin",
+          "Bootcamp",
+          "Yoga"
+        ]
+      ],
+      [
+        "Training",
+        [
+          "Intro packages",
+          "Sports performance",
+          "Senior fitness"
+        ]
+      ],
+      [
+        "Amenities",
+        [
+          "Locker rooms",
+          "Showers",
+          "Towel service"
+        ]
+      ],
+      [
+        "Hours",
+        [
+          "24/7 access",
+          "Staffed evenings",
+          "Holiday schedule"
+        ]
+      ],
+      [
+        "Community",
+        [
+          "Challenges",
+          "Member events",
+          "Referral rewards"
+        ]
+      ]
+    ],
+    "about": [
+      "Iron Peak Fitness opened to create a gym that feels motivating\u2014not overwhelming\u2014for beginners and experienced lifters alike.",
+      "Our trainers focus on safe progressions, accountability, and programs you can stick with.",
+      "We invest in clean equipment, varied classes, and a community that celebrates every milestone."
+    ],
+    "location": "410 Fitness Drive, Denver, CO 80201",
+    "phone": "+13035551234",
+    "phone_display": "(303) 555-1234",
+    "hours": "Open 24 hours, staffed 6 AM - 10 PM",
+    "footer_tag": "Your community gym for real results.",
+    "colors": {
+      "cream": "#f4f6f8",
+      "cream_soft": "#e5e9ed",
+      "dark": "#1a1a1a",
+      "mid": "#333333",
+      "light": "#555555",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#1a1a1a",
+      "danger": "#b91c1c"
+    },
+    "slug": "local-gym",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "email": "hello@localgym.com"
+  },
+  {
+    "name": "SwiftMove Relocation",
+    "emoji": "\ud83d\udce6",
+    "tagline": "Local & Long-Distance Moving",
+    "meta": "SwiftMove Relocation provides packing, loading, and delivery for stress-free moves.",
+    "eyebrow": "Licensed Movers \u2022 Full Packing \u2022 Insured Transport",
+    "headline": "Move Without the Stress.",
+    "hero_text": "SwiftMove Relocation handles local and long-distance moves with careful packing, trained crews, and transparent pricing.",
+    "hero_image": "photo-1600585154340-be6161a56a0c",
+    "about_photo": "photo-1600585154340-be6161a56a0c",
+    "about_alt": "Professional movers loading furniture into a truck",
+    "colors": {
+      "cream": "#fff7ed",
+      "cream_soft": "#ffedd5",
+      "dark": "#7c2d12",
+      "mid": "#c2410c",
+      "light": "#ea580c",
+      "gold": "#fbbf24",
+      "gold_soft": "#fde68a",
+      "text": "#431407",
+      "danger": "#b91c1c"
+    },
+    "products": [
+      [
+        "Local Moving",
+        "Apartments and homes within the metro area.",
+        "photo-1600585154340-be6161a56a0c",
+        "Local moving truck and crew"
+      ],
+      [
+        "Long Distance",
+        "Interstate moves with tracking and delivery windows.",
+        "photo-1600585154340-be6161a56a0c",
+        "Long distance moving truck"
+      ],
+      [
+        "Packing Services",
+        "Full-home packing with labeled boxes and supplies.",
+        "photo-1600585154340-be6161a56a0c",
+        "Professional packing service"
+      ],
+      [
+        "Office Relocation",
+        "Desks, equipment, and weekend commercial moves.",
+        "photo-1497366216548-37526070297c",
+        "Office relocation moving"
+      ],
+      [
+        "Furniture Assembly",
+        "Disassembly and reassembly for beds and modular pieces.",
+        "photo-1600585154340-be6161a56a0c",
+        "Furniture assembly after move"
+      ],
+      [
+        "Storage Solutions",
+        "Short-term storage between closing dates.",
+        "photo-1600585154340-be6161a56a0c",
+        "Moving boxes in storage unit"
+      ]
+    ],
+    "services": [
+      [
+        "Residential",
+        [
+          "Apartments",
+          "Homes",
+          "Senior moves"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Office suites",
+          "Retail",
+          "Warehouses"
+        ]
+      ],
+      [
+        "Packing",
+        [
+          "Full pack",
+          "Partial pack",
+          "Supplies only"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Pianos",
+          "Antiques",
+          "Safes"
+        ]
+      ],
+      [
+        "Logistics",
+        [
+          "Loading only",
+          "Unload help",
+          "Container moves"
+        ]
+      ],
+      [
+        "Protection",
+        [
+          "Licensed and insured",
+          "Inventory lists",
+          "Claims support"
+        ]
+      ]
+    ],
+    "about": [
+      "SwiftMove Relocation was built by movers who understand how stressful changing homes can be.",
+      "We train crews on proper lifting, padding, and communication so your belongings arrive safely.",
+      "From studio apartments to corporate relocations, we plan every detail ahead of moving day."
+    ],
+    "location": "88 Haul Road, Charlotte, NC 28201",
+    "phone": "+17045551234",
+    "phone_display": "(704) 555-1234",
+    "slug": "moving-company",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Local & Long-Distance Moving",
+    "email": "hello@movingcompany.com"
+  },
+  {
+    "name": "ColorCraft Painters",
+    "emoji": "\ud83c\udfa8",
+    "tagline": "Interior & Exterior Painting",
+    "meta": "ColorCraft Painters delivers professional residential and commercial painting.",
+    "eyebrow": "Licensed \u2022 Detailed Prep \u2022 Clean Finish",
+    "headline": "Color That Transforms Your Space.",
+    "hero_text": "ColorCraft Painters provides meticulous prep, premium paints, and skilled crews for interiors, exteriors, and cabinets.",
+    "hero_image": "photo-1589939705384-5185137a7f0f",
+    "about_photo": "photo-1589939705384-5185137a7f0f",
+    "about_alt": "Painter applying fresh coat to interior wall",
+    "colors": {
+      "cream": "#faf6f1",
+      "cream_soft": "#efe6da",
+      "dark": "#3d2c1e",
+      "mid": "#5c4332",
+      "light": "#8b6f47",
+      "gold": "#c4956f",
+      "gold_soft": "#dcc4a8",
+      "text": "#3d2c1e",
+      "danger": "#9a3412"
+    },
+    "products": [
+      [
+        "Interior Painting",
+        "Walls, ceilings, trim, and accent features.",
+        "photo-1589939705384-5185137a7f0f",
+        "Interior house painting"
+      ],
+      [
+        "Exterior Painting",
+        "Siding, trim, decks, and weather-resistant coatings.",
+        "photo-1589939705384-5185137a7f0f",
+        "Exterior home painting"
+      ],
+      [
+        "Cabinet Refinishing",
+        "Kitchen and bath cabinet spray finishes.",
+        "photo-1589939705384-5185137a7f0f",
+        "Kitchen cabinet painting"
+      ],
+      [
+        "Commercial Painting",
+        "Offices, retail, and multi-unit properties.",
+        "photo-1497366216548-37526070297c",
+        "Commercial building painting"
+      ],
+      [
+        "Wallpaper Removal",
+        "Surface prep and repair before new color.",
+        "photo-1589939705384-5185137a7f0f",
+        "Wallpaper removal and prep"
+      ],
+      [
+        "Color Consultation",
+        "Palette selection and sample testing.",
+        "photo-1589939705384-5185137a7f0f",
+        "Paint color consultation"
+      ]
+    ],
+    "services": [
+      [
+        "Residential",
+        [
+          "Single rooms",
+          "Whole home",
+          "New construction"
+        ]
+      ],
+      [
+        "Exterior",
+        [
+          "Stucco",
+          "Wood siding",
+          "Brick refresh"
+        ]
+      ],
+      [
+        "Prep",
+        [
+          "Patch and sand",
+          "Caulking",
+          "Primer systems"
+        ]
+      ],
+      [
+        "Finishes",
+        [
+          "Low-VOC paints",
+          "Stains",
+          "Epoxy floors"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "After-hours work",
+          "Tenant improvements",
+          "HOA projects"
+        ]
+      ],
+      [
+        "Guarantee",
+        [
+          "Written warranty",
+          "Touch-up policy",
+          "Licensed crews"
+        ]
+      ]
+    ],
+    "about": [
+      "ColorCraft Painters started with a belief that great paint jobs are 80% preparation and 20% application.",
+      "We protect floors and furniture, communicate timelines clearly, and stand behind our workmanship.",
+      "Our color consultants help you choose finishes that fit your lighting and lifestyle."
+    ],
+    "location": "512 Brush Street, San Diego, CA 92101",
+    "phone": "+16195551234",
+    "phone_display": "(619) 555-1234",
+    "slug": "painting-services",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Interior & Exterior Painting",
+    "email": "hello@paintingservices.com"
+  },
+  {
+    "name": "Peak Form Training",
+    "emoji": "\ud83d\udcaa",
+    "tagline": "Personal Training & Coaching",
+    "meta": "Peak Form Training offers one-on-one fitness coaching and customized workout plans.",
+    "eyebrow": "Certified Coaches \u2022 Custom Plans \u2022 Real Results",
+    "headline": "Train Smarter, Live Stronger.",
+    "hero_text": "Peak Form Training builds personalized programs for fat loss, strength, and athletic performance with accountable coaching.",
+    "hero_image": "photo-1534438327276-14e5300c3a48",
+    "about_photo": "photo-1518611012118-696072aa579a",
+    "about_alt": "Personal trainer coaching client through strength exercise",
+    "colors": {
+      "cream": "#f4f6f8",
+      "cream_soft": "#e5e9ed",
+      "dark": "#1a1a1a",
+      "mid": "#333333",
+      "light": "#555555",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#1a1a1a",
+      "danger": "#b91c1c"
+    },
+    "products": [
+      [
+        "1-on-1 Training",
+        "Custom sessions focused on your goals and form.",
+        "photo-1518611012118-696072aa579a",
+        "One on one personal training"
+      ],
+      [
+        "Weight Loss Programs",
+        "Nutrition guidance paired with metabolic workouts.",
+        "photo-1534438327276-14e5300c3a48",
+        "Weight loss fitness coaching"
+      ],
+      [
+        "Strength Building",
+        "Progressive overload plans for muscle and power.",
+        "photo-1534438327276-14e5300c3a48",
+        "Strength training coaching"
+      ],
+      [
+        "Sports Performance",
+        "Agility, speed, and sport-specific conditioning.",
+        "photo-1517836357463-d25dfeac3438",
+        "Athletic performance training"
+      ],
+      [
+        "Online Coaching",
+        "Remote programming with weekly check-ins.",
+        "photo-1534438327276-14e5300c3a48",
+        "Online fitness coaching session"
+      ],
+      [
+        "Small Group Training",
+        "Partner workouts with shared motivation.",
+        "photo-1518611012118-696072aa579a",
+        "Small group fitness training"
+      ]
+    ],
+    "services": [
+      [
+        "Coaching",
+        [
+          "Goal setting",
+          "Habit tracking",
+          "Progress photos"
+        ]
+      ],
+      [
+        "Training",
+        [
+          "Strength",
+          "HIIT",
+          "Mobility"
+        ]
+      ],
+      [
+        "Nutrition",
+        [
+          "Meal templates",
+          "Macro guidance",
+          "Grocery tips"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "Post-rehab return",
+          "Senior fitness",
+          "Pre/post natal"
+        ]
+      ],
+      [
+        "Packages",
+        [
+          "8-session intro",
+          "Monthly unlimited",
+          "Couples plan"
+        ]
+      ],
+      [
+        "Support",
+        [
+          "App workouts",
+          "Form video review",
+          "Accountability texts"
+        ]
+      ]
+    ],
+    "about": [
+      "Peak Form Training was founded by coaches tired of one-size-fits-all gym routines that do not stick.",
+      "We assess movement, build realistic plans, and adjust weekly based on how you feel and perform.",
+      "Clients stay because they see progress\u2014and because they are never left guessing what to do next."
+    ],
+    "location": "95 Peak Lane, Miami, FL 33101",
+    "phone": "+13055551234",
+    "phone_display": "(305) 555-1234",
+    "slug": "personal-trainer",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Personal Training & Coaching",
+    "email": "hello@personaltrainer.com"
+  },
+  {
+    "name": "Paws & Claws Grooming",
+    "emoji": "\ud83d\udc3e",
+    "tagline": "Pet Grooming & Spa",
+    "meta": "Paws & Claws Grooming offers baths, haircuts, and spa treatments for dogs and cats.",
+    "eyebrow": "Gentle Handling \u2022 Breed Styles \u2022 Spa Treatments",
+    "headline": "Happy Pets, Beautiful Coats.",
+    "hero_text": "Paws & Claws Grooming keeps pets looking and feeling great with gentle handling, breed-specific cuts, and spa add-ons.",
+    "hero_image": "photo-1518791841217-8f162f1e1131",
+    "about_photo": "photo-1518791841217-8f162f1e1131",
+    "about_alt": "Groomer brushing a happy dog in the salon",
+    "colors": {
+      "cream": "#f0faf9",
+      "cream_soft": "#e0f2f1",
+      "dark": "#0f3d3e",
+      "mid": "#14746f",
+      "light": "#2d9d91",
+      "gold": "#f4a261",
+      "gold_soft": "#f8c9a0",
+      "text": "#134e4a",
+      "danger": "#c2410c"
+    },
+    "products": [
+      [
+        "Full Groom",
+        "Bath, haircut, nails, ears, and sanitary trim.",
+        "photo-1518791841217-8f162f1e1131",
+        "Dog full grooming session"
+      ],
+      [
+        "Bath & Brush",
+        "De-shedding bath with blow dry for heavy coats.",
+        "photo-1518791841217-8f162f1e1131",
+        "Dog bath and brush service"
+      ],
+      [
+        "Cat Grooming",
+        "Stress-minimized grooming for feline friends.",
+        "photo-1518791841217-8f162f1e1131",
+        "Cat grooming appointment"
+      ],
+      [
+        "Nail Trim",
+        "Quick nail clipping and paw pad care.",
+        "photo-1518791841217-8f162f1e1131",
+        "Pet nail trimming"
+      ],
+      [
+        "Puppy Intro",
+        "Positive first visits for young dogs.",
+        "photo-1518791841217-8f162f1e1131",
+        "Puppy first grooming visit"
+      ],
+      [
+        "Spa Add-Ons",
+        "Teeth brushing, facials, and paw balm.",
+        "photo-1518791841217-8f162f1e1131",
+        "Pet spa treatment"
+      ]
+    ],
+    "services": [
+      [
+        "Dogs",
+        [
+          "Breed cuts",
+          "De-shedding",
+          "Hand scissoring"
+        ]
+      ],
+      [
+        "Cats",
+        [
+          "Mat removal",
+          "Sanitary trims",
+          "Calm handling"
+        ]
+      ],
+      [
+        "Spa",
+        [
+          "Aromatherapy bath",
+          "Conditioning treatments",
+          "Bandanas"
+        ]
+      ],
+      [
+        "Health",
+        [
+          "Ear cleaning",
+          "Anal gland check",
+          "Flea bath"
+        ]
+      ],
+      [
+        "Booking",
+        [
+          "Online scheduling",
+          "Same-day slots",
+          "Loyalty perks"
+        ]
+      ],
+      [
+        "Retail",
+        [
+          "Shampoos",
+          "Brushes",
+          "Treats"
+        ]
+      ]
+    ],
+    "about": [
+      "Paws & Claws Grooming began as a small salon focused on patience and positive experiences for nervous pets.",
+      "Groomers continue education on breed standards, skin conditions, and low-stress handling techniques.",
+      "We treat every pet like family and send them home comfortable, clean, and tail-wag ready."
+    ],
+    "location": "27 Pet Lane, Columbus, OH 43201",
+    "phone": "+16145551234",
+    "phone_display": "(614) 555-1234",
+    "slug": "pet-grooming",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Pet Grooming & Spa",
+    "email": "hello@petgrooming.com"
+  },
+  {
+    "name": "Restore Motion Physio",
+    "emoji": "\ud83c\udfe5",
+    "tagline": "Physiotherapy & Rehabilitation",
+    "meta": "Restore Motion Physio helps patients recover mobility and reduce pain through evidence-based therapy.",
+    "eyebrow": "Licensed Therapists \u2022 Personalized Rehab \u2022 Hands-On Care",
+    "headline": "Move Freely Again.",
+    "hero_text": "Restore Motion Physio combines manual therapy, exercise prescription, and education to help you recover from injury and chronic pain.",
+    "hero_image": "photo-1576091160550-2173dba999ef",
+    "about_photo": "photo-1579684385127-1ef15d508118",
+    "about_alt": "Physiotherapist guiding patient through rehabilitation exercise",
+    "colors": {
+      "cream": "#f0faf9",
+      "cream_soft": "#e0f2f1",
+      "dark": "#0f3d3e",
+      "mid": "#14746f",
+      "light": "#2d9d91",
+      "gold": "#f4a261",
+      "gold_soft": "#f8c9a0",
+      "text": "#134e4a",
+      "danger": "#c2410c"
+    },
+    "products": [
+      [
+        "Sports Rehab",
+        "Return-to-play programs after athletic injuries.",
+        "photo-1576091160550-2173dba999ef",
+        "Sports physiotherapy rehabilitation"
+      ],
+      [
+        "Post-Surgery Recovery",
+        "Structured rehab after joint replacements and repairs.",
+        "photo-1579684385127-1ef15d508118",
+        "Post surgery physiotherapy"
+      ],
+      [
+        "Back & Neck Pain",
+        "Targeted treatment for spinal discomfort.",
+        "photo-1576091160550-2173dba999ef",
+        "Back pain physiotherapy session"
+      ],
+      [
+        "Workplace Injuries",
+        "Ergonomic assessment and return-to-work plans.",
+        "photo-1576091160399-112ba8d25d1d",
+        "Workplace injury physiotherapy"
+      ],
+      [
+        "Dry Needling",
+        "Trigger point therapy for muscle tension.",
+        "photo-1579684385127-1ef15d508118",
+        "Dry needling physiotherapy"
+      ],
+      [
+        "Balance & Fall Prevention",
+        "Programs for seniors to improve stability.",
+        "photo-1534438327276-14e5300c3a48",
+        "Senior balance physiotherapy"
+      ]
+    ],
+    "services": [
+      [
+        "Assessment",
+        [
+          "Movement screening",
+          "Pain evaluation",
+          "Goal planning"
+        ]
+      ],
+      [
+        "Treatment",
+        [
+          "Manual therapy",
+          "Exercise therapy",
+          "Modalities"
+        ]
+      ],
+      [
+        "Specialty",
+        [
+          "ACL rehab",
+          "Rotator cuff",
+          "TMJ therapy"
+        ]
+      ],
+      [
+        "Prevention",
+        [
+          "Posture coaching",
+          "Sport prep",
+          "Wellness visits"
+        ]
+      ],
+      [
+        "Insurance",
+        [
+          "Direct billing",
+          "Referral support",
+          "Documentation"
+        ]
+      ],
+      [
+        "Facilities",
+        [
+          "Private rooms",
+          "Gym equipment",
+          "Pool access partners"
+        ]
+      ]
+    ],
+    "about": [
+      "Restore Motion Physio was created to bridge the gap between quick appointments and lasting recovery.",
+      "Therapists spend time explaining your condition and teaching exercises you can continue at home.",
+      "Our clinic supports everyone from weekend athletes to seniors regaining confidence on their feet."
+    ],
+    "location": "501 Recovery Road, Calgary, AB T2P 1A1",
+    "phone": "+14035551234",
+    "phone_display": "(403) 555-1234",
+    "slug": "physiotherapy",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Physiotherapy & Rehabilitation",
+    "email": "hello@physiotherapy.com"
+  },
+  {
+    "name": "FlowRight Plumbing",
+    "emoji": "\ud83d\udd27",
+    "tagline": "Residential & Commercial Plumbing",
+    "meta": "FlowRight Plumbing repairs leaks, installs fixtures, and handles drain and sewer issues.",
+    "eyebrow": "Licensed Plumbers \u2022 Upfront Pricing \u2022 Emergency Service",
+    "headline": "Pipes Fixed Right the First Time.",
+    "hero_text": "FlowRight Plumbing solves leaks, clogs, and installations with licensed plumbers and clear estimates.",
+    "hero_image": "photo-1558618666-fcd25c85cd64",
+    "about_photo": "photo-1558618666-fcd25c85cd64",
+    "about_alt": "Plumber repairing pipes under a kitchen sink",
+    "colors": {
+      "cream": "#f8fafc",
+      "cream_soft": "#eef2f7",
+      "dark": "#0f172a",
+      "mid": "#1e3a5f",
+      "light": "#475569",
+      "gold": "#38bdf8",
+      "gold_soft": "#7dd3fc",
+      "text": "#0f172a",
+      "danger": "#ef4444"
+    },
+    "products": [
+      [
+        "Leak Repair",
+        "Fix dripping faucets, pipes, and water heaters.",
+        "photo-1558618666-fcd25c85cd64",
+        "Plumber fixing pipe leak"
+      ],
+      [
+        "Drain Cleaning",
+        "Clear sinks, tubs, and main line blockages.",
+        "photo-1558618666-fcd25c85cd64",
+        "Drain cleaning service"
+      ],
+      [
+        "Water Heaters",
+        "Tank and tankless install and repair.",
+        "photo-1558618666-fcd25c85cd64",
+        "Water heater installation"
+      ],
+      [
+        "Fixture Install",
+        "Toilets, sinks, showers, and disposals.",
+        "photo-1558618666-fcd25c85cd64",
+        "Bathroom fixture installation"
+      ],
+      [
+        "Sewer Line Service",
+        "Camera inspection and trenchless options.",
+        "photo-1558618666-fcd25c85cd64",
+        "Sewer line plumbing repair"
+      ],
+      [
+        "Emergency Calls",
+        "24/7 response for burst pipes and backups.",
+        "photo-1558618666-fcd25c85cd64",
+        "Emergency plumbing repair"
+      ]
+    ],
+    "services": [
+      [
+        "Repairs",
+        [
+          "Pipe leaks",
+          "Valve replacement",
+          "Garbage disposals"
+        ]
+      ],
+      [
+        "Install",
+        [
+          "Bath remodels",
+          "Kitchen upgrades",
+          "Gas lines"
+        ]
+      ],
+      [
+        "Drains",
+        [
+          "Hydro jetting",
+          "Root removal",
+          "Preventive maintenance"
+        ]
+      ],
+      [
+        "Water",
+        [
+          "Softeners",
+          "Filtration",
+          "Pressure issues"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Restaurants",
+          "Retail",
+          "Property managers"
+        ]
+      ],
+      [
+        "Plans",
+        [
+          "Maintenance agreements",
+          "Priority scheduling",
+          "Senior discounts"
+        ]
+      ]
+    ],
+    "about": [
+      "FlowRight Plumbing was started by tradespeople who believe homeowners deserve honest answers and durable fixes.",
+      "We arrive with stocked trucks, explain options before work begins, and clean up when the job is done.",
+      "From small drips to major sewer issues, our team is ready day or night."
+    ],
+    "location": "601 Pipe Street, Philadelphia, PA 19101",
+    "phone": "+12155551234",
+    "phone_display": "(215) 555-1234",
+    "hours": "Monday - Sunday, 24-hour emergency",
+    "slug": "plumber",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "footer_tag": "Residential & Commercial Plumbing",
+    "email": "hello@plumber.com"
+  },
+  {
+    "name": "Harborview Realty",
+    "emoji": "\ud83c\udfe0",
+    "tagline": "Residential Real Estate",
+    "meta": "Harborview Realty helps buyers and sellers navigate homes with local market expertise.",
+    "eyebrow": "Local Experts \u2022 Market Insight \u2022 Client First",
+    "headline": "Find the Place You Call Home.",
+    "hero_text": "Harborview Realty guides buyers and sellers with neighborhood knowledge, marketing, and negotiation you can trust.",
+    "hero_image": "photo-1560518883-ce09059eeffa",
+    "about_photo": "photo-1560518883-ce09059eeffa",
+    "about_alt": "Real estate agent showing a home to clients",
+    "colors": {
+      "cream": "#f0f4f8",
+      "cream_soft": "#e8ecf1",
+      "dark": "#1e3a5f",
+      "mid": "#2d5a8c",
+      "light": "#4a7ba7",
+      "gold": "#d4a373",
+      "gold_soft": "#e8c4a0",
+      "text": "#2c3e50",
+      "danger": "#c23e3e"
+    },
+    "products": [
+      [
+        "Home Buying",
+        "Search, tours, offers, and closing support.",
+        "photo-1560518883-ce09059eeffa",
+        "Couple touring home for sale"
+      ],
+      [
+        "Home Selling",
+        "Pricing, staging advice, and marketing campaigns.",
+        "photo-1560518883-ce09059eeffa",
+        "Home for sale with sign"
+      ],
+      [
+        "Luxury Listings",
+        "High-end properties with tailored presentation.",
+        "photo-1613490493576-7fde63acd811",
+        "Luxury home listing"
+      ],
+      [
+        "First-Time Buyers",
+        "Education on loans, inspections, and timelines.",
+        "photo-1560518883-ce09059eeffa",
+        "First time home buyers consultation"
+      ],
+      [
+        "Investment Properties",
+        "Rental analysis and portfolio growth strategies.",
+        "photo-1560518883-ce09059eeffa",
+        "Investment property consultation"
+      ],
+      [
+        "Relocation Services",
+        "Area tours and remote buying assistance.",
+        "photo-1560518883-ce09059eeffa",
+        "Relocation home search"
+      ]
+    ],
+    "services": [
+      [
+        "Buyers",
+        [
+          "MLS access",
+          "Offer strategy",
+          "Inspection help"
+        ]
+      ],
+      [
+        "Sellers",
+        [
+          "CMA pricing",
+          "Photography",
+          "Open houses"
+        ]
+      ],
+      [
+        "Marketing",
+        [
+          "Social campaigns",
+          "Print flyers",
+          "Virtual tours"
+        ]
+      ],
+      [
+        "Negotiation",
+        [
+          "Multiple offers",
+          "Contingencies",
+          "Closing coordination"
+        ]
+      ],
+      [
+        "Network",
+        [
+          "Lenders",
+          "Inspectors",
+          "Contractors"
+        ]
+      ],
+      [
+        "Areas",
+        [
+          "Waterfront",
+          "Suburbs",
+          "Urban condos"
+        ]
+      ]
+    ],
+    "about": [
+      "Harborview Realty agents live in the communities they serve and track trends that affect value every day.",
+      "We communicate proactively, market listings creatively, and advocate fiercely at the negotiating table.",
+      "Whether upsizing, downsizing, or investing, you get a partner\u2014not just a transaction."
+    ],
+    "location": "15 Harbor View Road, San Francisco, CA 94101",
+    "phone": "+14155551234",
+    "phone_display": "(415) 555-1234",
+    "slug": "real-estate",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Residential Real Estate",
+    "email": "hello@realestate.com"
+  },
+  {
+    "name": "Summit Roof Solutions",
+    "emoji": "\ud83c\udfe0",
+    "tagline": "Roof Repair & Replacement",
+    "meta": "Summit Roof Solutions installs and repairs shingle, metal, and flat roofing systems.",
+    "eyebrow": "Licensed Roofers \u2022 Storm Response \u2022 Warranties",
+    "headline": "Protection Starts at the Top.",
+    "hero_text": "Summit Roof Solutions protects homes with quality materials, skilled installation, and responsive storm damage repair.",
+    "hero_image": "photo-1486406146926-c627a92fd1ab",
+    "about_photo": "photo-1486406146926-c627a92fd1ab",
+    "about_alt": "Roofing crew installing shingles on a house",
+    "colors": {
+      "cream": "#f5f7fa",
+      "cream_soft": "#e8ecf0",
+      "dark": "#1a2332",
+      "mid": "#334155",
+      "light": "#64748b",
+      "gold": "#eab308",
+      "gold_soft": "#fde047",
+      "text": "#1e293b",
+      "danger": "#dc2626"
+    },
+    "products": [
+      [
+        "Roof Replacement",
+        "Full tear-off and install with architectural shingles.",
+        "photo-1486406146926-c627a92fd1ab",
+        "Roof replacement installation"
+      ],
+      [
+        "Roof Repair",
+        "Leak fixes, flashing, and storm damage patches.",
+        "photo-1486406146926-c627a92fd1ab",
+        "Roof leak repair work"
+      ],
+      [
+        "Metal Roofing",
+        "Durable metal systems with modern profiles.",
+        "photo-1486406146926-c627a92fd1ab",
+        "Metal roof installation"
+      ],
+      [
+        "Flat Commercial",
+        "TPO and modified bitumen for businesses.",
+        "photo-1503387762-592deb58ef4e",
+        "Commercial flat roof"
+      ],
+      [
+        "Gutter Install",
+        "Seamless gutters and downspout drainage.",
+        "photo-1486406146926-c627a92fd1ab",
+        "Gutter installation on home"
+      ],
+      [
+        "Inspections",
+        "Insurance documentation and maintenance checks.",
+        "photo-1486406146926-c627a92fd1ab",
+        "Roof inspection on ladder"
+      ]
+    ],
+    "services": [
+      [
+        "Residential",
+        [
+          "Asphalt shingles",
+          "Metal roofs",
+          "Skylights"
+        ]
+      ],
+      [
+        "Commercial",
+        [
+          "Flat roofs",
+          "Coatings",
+          "Maintenance"
+        ]
+      ],
+      [
+        "Storm",
+        [
+          "Emergency tarp",
+          "Insurance help",
+          "Hail damage"
+        ]
+      ],
+      [
+        "Ventilation",
+        [
+          "Ridge vents",
+          "Attic fans",
+          "Ice dam prevention"
+        ]
+      ],
+      [
+        "Warranty",
+        [
+          "Manufacturer backed",
+          "Workmanship guarantee",
+          "Transferable options"
+        ]
+      ],
+      [
+        "Financing",
+        [
+          "Monthly plans",
+          "Insurance coordination",
+          "Free estimates"
+        ]
+      ]
+    ],
+    "about": [
+      "Summit Roof Solutions was founded after seeing too many homeowners stuck with rushed storm repairs and unclear warranties.",
+      "We document every project, use proven underlayment systems, and communicate with insurers when needed.",
+      "Your roof is your first line of defense\u2014we treat it that way."
+    ],
+    "location": "900 Ridge Road, Oklahoma City, OK 73101",
+    "phone": "+14055551234",
+    "phone_display": "(405) 555-1234",
+    "slug": "roofing",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Roof Repair & Replacement",
+    "email": "hello@roofing.com"
+  },
+  {
+    "name": "Serenity Spa & Wellness",
+    "emoji": "\ud83e\uddd6",
+    "tagline": "Spa Treatments & Wellness",
+    "meta": "Serenity Spa offers massages, facials, and holistic wellness treatments.",
+    "eyebrow": "Relaxation \u2022 Skincare \u2022 Holistic Wellness",
+    "headline": "Restore Balance, Renew Yourself.",
+    "hero_text": "Serenity Spa & Wellness provides massages, facials, and body treatments in a tranquil retreat designed to help you unwind.",
+    "hero_image": "photo-1540555700478-4be289fbecef",
+    "about_photo": "photo-1540555700478-4be289fbecef",
+    "about_alt": "Spa massage treatment in a calm wellness room",
+    "colors": {
+      "cream": "#fdf6f8",
+      "cream_soft": "#f8e8ee",
+      "dark": "#4a1f2e",
+      "mid": "#6b3045",
+      "light": "#9b5a72",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#3d1f2a",
+      "danger": "#b91c1c"
+    },
+    "products": [
+      [
+        "Swedish Massage",
+        "Classic relaxation massage for stress relief.",
+        "photo-1540555700478-4be289fbecef",
+        "Swedish massage at spa"
+      ],
+      [
+        "Deep Tissue",
+        "Targeted pressure for chronic muscle tension.",
+        "photo-1540555700478-4be289fbecef",
+        "Deep tissue massage therapy"
+      ],
+      [
+        "Hydrating Facial",
+        "Custom facials for glow and skin health.",
+        "photo-1540555700478-4be289fbecef",
+        "Spa facial treatment"
+      ],
+      [
+        "Hot Stone Therapy",
+        "Heated stones to melt tension and improve circulation.",
+        "photo-1540555700478-4be289fbecef",
+        "Hot stone spa therapy"
+      ],
+      [
+        "Aromatherapy Body Wrap",
+        "Detoxifying wrap with essential oils.",
+        "photo-1540555700478-4be289fbecef",
+        "Aromatherapy spa wrap"
+      ],
+      [
+        "Couples Package",
+        "Side-by-side massages in a private suite.",
+        "photo-1540555700478-4be289fbecef",
+        "Couples spa massage package"
+      ]
+    ],
+    "services": [
+      [
+        "Massage",
+        [
+          "Swedish",
+          "Deep tissue",
+          "Prenatal"
+        ]
+      ],
+      [
+        "Skincare",
+        [
+          "Anti-aging",
+          "Acne calming",
+          "Men facials"
+        ]
+      ],
+      [
+        "Body",
+        [
+          "Scrubs",
+          "Wraps",
+          "Reflexology"
+        ]
+      ],
+      [
+        "Wellness",
+        [
+          "Sauna access",
+          "Meditation room",
+          "Herbal tea bar"
+        ]
+      ],
+      [
+        "Packages",
+        [
+          "Day retreats",
+          "Monthly memberships",
+          "Gift cards"
+        ]
+      ],
+      [
+        "Events",
+        [
+          "Bridal parties",
+          "Corporate wellness",
+          "Private suites"
+        ]
+      ]
+    ],
+    "about": [
+      "Serenity Spa was created as an escape from busy routines\u2014a place where every detail supports calm.",
+      "Therapists and estheticians are licensed, continually trained, and attentive to your preferences.",
+      "We use quality products and quiet spaces so you leave feeling rested and renewed."
+    ],
+    "location": "44 Tranquil Way, Scottsdale, AZ 85201",
+    "phone": "+16025551234",
+    "phone_display": "(602) 555-1234",
+    "hours": "Tuesday - Sunday, 9:00 AM - 8:00 PM",
+    "slug": "spa-wellness",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "footer_tag": "Spa Treatments & Wellness",
+    "email": "hello@spawellness.com"
+  },
+  {
+    "name": "BrightPath Tutoring",
+    "emoji": "\ud83d\udcda",
+    "tagline": "Academic Tutoring & Test Prep",
+    "meta": "BrightPath Tutoring helps students excel in math, science, reading, and standardized tests.",
+    "eyebrow": "Certified Tutors \u2022 Personalized Plans \u2022 All Grade Levels",
+    "headline": "Learning That Clicks.",
+    "hero_text": "BrightPath Tutoring pairs students with expert tutors for subject support, homework help, and confident test preparation.",
+    "hero_image": "photo-1522202176988-66273c2fd55f",
+    "about_photo": "photo-1635070041078-e363dbe005cb",
+    "about_alt": "Tutor helping a student with schoolwork at a desk",
+    "colors": {
+      "cream": "#faf5ff",
+      "cream_soft": "#f3e8ff",
+      "dark": "#3b0764",
+      "mid": "#6b21a8",
+      "light": "#a855f7",
+      "gold": "#eab308",
+      "gold_soft": "#fde047",
+      "text": "#3b0764",
+      "danger": "#dc2626"
+    },
+    "products": [
+      [
+        "Math Tutoring",
+        "Algebra through calculus with step-by-step support.",
+        "photo-1635070041078-e363dbe005cb",
+        "Math tutoring session"
+      ],
+      [
+        "Reading & Writing",
+        "Essay coaching, comprehension, and grammar.",
+        "photo-1635070041078-e363dbe005cb",
+        "Reading and writing tutoring"
+      ],
+      [
+        "Science Support",
+        "Biology, chemistry, and physics help.",
+        "photo-1635070041078-e363dbe005cb",
+        "Science tutoring lab session"
+      ],
+      [
+        "SAT & ACT Prep",
+        "Strategies, practice tests, and score goals.",
+        "photo-1522202176988-66273c2fd55f",
+        "SAT test prep tutoring"
+      ],
+      [
+        "Elementary Help",
+        "Foundational skills in a patient environment.",
+        "photo-1522202176988-66273c2fd55f",
+        "Elementary student tutoring"
+      ],
+      [
+        "Online Sessions",
+        "Flexible remote tutoring with shared whiteboards.",
+        "photo-1522202176988-66273c2fd55f",
+        "Online tutoring video session"
+      ]
+    ],
+    "services": [
+      [
+        "Subjects",
+        [
+          "Math",
+          "English",
+          "Sciences"
+        ]
+      ],
+      [
+        "Tests",
+        [
+          "SAT",
+          "ACT",
+          "AP exams"
+        ]
+      ],
+      [
+        "Formats",
+        [
+          "In-person",
+          "Online",
+          "Small groups"
+        ]
+      ],
+      [
+        "Plans",
+        [
+          "Weekly sessions",
+          "Intensive camps",
+          "Homework help"
+        ]
+      ],
+      [
+        "Support",
+        [
+          "Progress reports",
+          "Parent updates",
+          "Study skills"
+        ]
+      ],
+      [
+        "Schools",
+        [
+          "Partner programs",
+          "Learning plans",
+          "IEP collaboration"
+        ]
+      ]
+    ],
+    "about": [
+      "BrightPath Tutoring began when educators saw students struggling not from ability\u2014but from gaps in confidence and explanation.",
+      "We match learning styles with tutor personalities and measurable goals.",
+      "Families choose us for patience, accountability, and real grade improvements."
+    ],
+    "location": "12 Scholar Lane, Raleigh, NC 27601",
+    "phone": "+19195551234",
+    "phone_display": "(919) 555-1234",
+    "slug": "tutor-service",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Academic Tutoring & Test Prep",
+    "email": "hello@tutorservice.com"
+  },
+  {
+    "name": "Companion Care Vet",
+    "emoji": "\ud83d\udc15",
+    "tagline": "Veterinary Clinic & Pet Wellness",
+    "meta": "Companion Care Vet provides wellness exams, surgery, and urgent care for pets.",
+    "eyebrow": "Compassionate Care \u2022 Modern Equipment \u2022 Fear Free",
+    "headline": "Healthy Pets, Happy Families.",
+    "hero_text": "Companion Care Vet delivers preventive, medical, and surgical care for dogs and cats in a calm, compassionate clinic.",
+    "hero_image": "photo-1518791841217-8f162f1e1131",
+    "about_photo": "photo-1518791841217-8f162f1e1131",
+    "about_alt": "Veterinarian examining a dog in the clinic",
+    "colors": {
+      "cream": "#f0faf9",
+      "cream_soft": "#e0f2f1",
+      "dark": "#0f3d3e",
+      "mid": "#14746f",
+      "light": "#2d9d91",
+      "gold": "#f4a261",
+      "gold_soft": "#f8c9a0",
+      "text": "#134e4a",
+      "danger": "#c2410c"
+    },
+    "products": [
+      [
+        "Wellness Exams",
+        "Annual checkups, vaccines, and parasite prevention.",
+        "photo-1518791841217-8f162f1e1131",
+        "Veterinary wellness exam for dog"
+      ],
+      [
+        "Dental Care",
+        "Cleanings and oral health for pets.",
+        "photo-1609840114035-3c981b782dfe",
+        "Pet dental cleaning at vet"
+      ],
+      [
+        "Surgery",
+        "Spay, neuter, and soft tissue procedures.",
+        "photo-1518791841217-8f162f1e1131",
+        "Veterinary surgery preparation"
+      ],
+      [
+        "Urgent Care",
+        "Same-day visits for illness and injury.",
+        "photo-1518791841217-8f162f1e1131",
+        "Emergency vet urgent care"
+      ],
+      [
+        "Diagnostics",
+        "In-house labs and digital imaging.",
+        "photo-1518791841217-8f162f1e1131",
+        "Veterinary diagnostic imaging"
+      ],
+      [
+        "Senior Pet Care",
+        "Pain management and mobility support.",
+        "photo-1609840114035-3c981b782dfe",
+        "Senior dog veterinary care"
+      ]
+    ],
+    "services": [
+      [
+        "Wellness",
+        [
+          "Vaccinations",
+          "Nutrition consults",
+          "Microchipping"
+        ]
+      ],
+      [
+        "Medical",
+        [
+          "Allergy treatment",
+          "Chronic disease",
+          "Pain management"
+        ]
+      ],
+      [
+        "Surgery",
+        [
+          "Spay and neuter",
+          "Mass removal",
+          "Dental surgery"
+        ]
+      ],
+      [
+        "Diagnostics",
+        [
+          "Blood work",
+          "X-rays",
+          "Ultrasound"
+        ]
+      ],
+      [
+        "Boarding",
+        [
+          "Day boarding",
+          "Post-op recovery",
+          "Grooming partners"
+        ]
+      ],
+      [
+        "Client",
+        [
+          "Online records",
+          "Reminders",
+          "Pet insurance help"
+        ]
+      ]
+    ],
+    "about": [
+      "Companion Care Vet was founded by veterinarians who treat every patient with the patience they would want for their own pets.",
+      "We use fear-free handling, clear communication, and modern diagnostics to support better outcomes.",
+      "From puppy vaccines to senior comfort care, we are with your family at every stage."
+    ],
+    "location": "300 Pawprint Road, Kansas City, MO 64101",
+    "phone": "+18165551234",
+    "phone_display": "(816) 555-1234",
+    "slug": "veterinary-clinic",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "hours": "Monday - Saturday, 8:00 AM - 6:00 PM",
+    "footer_tag": "Veterinary Clinic & Pet Wellness",
+    "email": "hello@veterinaryclinic.com"
+  },
+  {
+    "name": "Everlight Studios",
+    "emoji": "\ud83d\udcf7",
+    "tagline": "Wedding & Portrait Photography",
+    "meta": "Everlight Studios captures authentic wedding and portrait moments with artistic storytelling.",
+    "eyebrow": "Timeless Images \u2022 Candid Storytelling \u2022 Full Day Coverage",
+    "headline": "Moments You Will Relive Forever.",
+    "hero_text": "Everlight Studios documents weddings and portraits with natural light, thoughtful composition, and a calm presence on your biggest days.",
+    "hero_image": "photo-1519741497674-611481863552",
+    "about_photo": "photo-1519741497674-611481863552",
+    "about_alt": "Wedding photographer capturing the couple outdoors",
+    "colors": {
+      "cream": "#fdf6f8",
+      "cream_soft": "#f8e8ee",
+      "dark": "#4a1f2e",
+      "mid": "#6b3045",
+      "light": "#9b5a72",
+      "gold": "#d4a574",
+      "gold_soft": "#e8c4a0",
+      "text": "#3d1f2a",
+      "danger": "#b91c1c"
+    },
+    "products": [
+      [
+        "Wedding Day Coverage",
+        "Full-day photography from prep through reception.",
+        "photo-1519741497674-611481863552",
+        "Wedding ceremony photography"
+      ],
+      [
+        "Engagement Sessions",
+        "Location sessions to celebrate your story.",
+        "photo-1519741497674-611481863552",
+        "Engagement couple photo session"
+      ],
+      [
+        "Elopement Packages",
+        "Intimate celebrations with flexible timelines.",
+        "photo-1519741497674-611481863552",
+        "Elopement wedding photography"
+      ],
+      [
+        "Reception Highlights",
+        "Dancing, toasts, and details through the night.",
+        "photo-1519741497674-611481863552",
+        "Wedding reception photography"
+      ],
+      [
+        "Portrait Sessions",
+        "Families, seniors, and professional headshots.",
+        "photo-1519741497674-611481863552",
+        "Outdoor portrait photography"
+      ],
+      [
+        "Albums & Prints",
+        "Heirloom albums and gallery-quality prints.",
+        "photo-1519741497674-611481863552",
+        "Wedding photo album display"
+      ]
+    ],
+    "services": [
+      [
+        "Weddings",
+        [
+          "Full day",
+          "Second shooter",
+          "Timeline planning"
+        ]
+      ],
+      [
+        "Sessions",
+        [
+          "Engagements",
+          "Bridal portraits",
+          "Anniversaries"
+        ]
+      ],
+      [
+        "Delivery",
+        [
+          "Online gallery",
+          "Sneak peeks",
+          "Edited collections"
+        ]
+      ],
+      [
+        "Products",
+        [
+          "Albums",
+          "Canvas prints",
+          "Parent books"
+        ]
+      ],
+      [
+        "Style",
+        [
+          "Documentary",
+          "Editorial",
+          "Natural light"
+        ]
+      ],
+      [
+        "Travel",
+        [
+          "Destination weddings",
+          "Local venues",
+          "Weekday discounts"
+        ]
+      ]
+    ],
+    "about": [
+      "Everlight Studios started with a love for real moments\u2014the laugh, the tear, the quiet glance\u2014not stiff posing.",
+      "We guide gently, blend into the day, and deliver galleries that feel like your memories, not a performance.",
+      "Couples trust us to honor their style while capturing everything they might miss."
+    ],
+    "location": "8 Lens Court, Portland, OR 97205",
+    "phone": "+15035559876",
+    "phone_display": "(503) 555-9876",
+    "hours": "By appointment, seven days a week",
+    "slug": "wedding-photographer",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "View Packages",
+    "cta_secondary": "Get in Touch",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "footer_tag": "Wedding & Portrait Photography",
+    "email": "hello@weddingphotographer.com"
+  },
+  {
+    "name": "Lotus Flow Yoga",
+    "emoji": "\ud83e\uddd8",
+    "tagline": "Yoga Classes & Mindfulness",
+    "meta": "Lotus Flow Yoga offers vinyasa, restorative, and beginner-friendly classes for all levels.",
+    "eyebrow": "All Levels \u2022 Certified Instructors \u2022 Welcoming Studio",
+    "headline": "Breathe, Move, Find Your Center.",
+    "hero_text": "Lotus Flow Yoga welcomes practitioners of every level with thoughtful classes, workshops, and a supportive community.",
+    "hero_image": "photo-1506126613408-eca07ce68773",
+    "about_photo": "photo-1506126613408-eca07ce68773",
+    "about_alt": "Yoga class practicing poses in a bright studio",
+    "colors": {
+      "cream": "#f0fdf4",
+      "cream_soft": "#dcfce7",
+      "dark": "#14532d",
+      "mid": "#166534",
+      "light": "#22c55e",
+      "gold": "#ca8a04",
+      "gold_soft": "#facc15",
+      "text": "#14532d",
+      "danger": "#b91c1c"
+    },
+    "products": [
+      [
+        "Vinyasa Flow",
+        "Dynamic classes linking breath and movement.",
+        "photo-1506126613408-eca07ce68773",
+        "Vinyasa yoga class in studio"
+      ],
+      [
+        "Restorative Yoga",
+        "Supported poses for deep relaxation.",
+        "photo-1506126613408-eca07ce68773",
+        "Restorative yoga session"
+      ],
+      [
+        "Beginner Series",
+        "Foundations for new students in a friendly setting.",
+        "photo-1506126613408-eca07ce68773",
+        "Beginner yoga class"
+      ],
+      [
+        "Power Yoga",
+        "Strength-focused flows to build stamina.",
+        "photo-1506126613408-eca07ce68773",
+        "Power yoga practice"
+      ],
+      [
+        "Prenatal Yoga",
+        "Safe movement and breath for expecting parents.",
+        "photo-1506126613408-eca07ce68773",
+        "Prenatal yoga class"
+      ],
+      [
+        "Meditation Workshops",
+        "Guided mindfulness and breathwork sessions.",
+        "photo-1506126613408-eca07ce68773",
+        "Yoga meditation workshop"
+      ]
+    ],
+    "services": [
+      [
+        "Classes",
+        [
+          "Drop-in",
+          "Class packs",
+          "Unlimited monthly"
+        ]
+      ],
+      [
+        "Styles",
+        [
+          "Vinyasa",
+          "Yin",
+          "Restorative"
+        ]
+      ],
+      [
+        "Workshops",
+        [
+          "Arm balances",
+          "Breathwork",
+          "Sound bath"
+        ]
+      ],
+      [
+        "Private",
+        [
+          "1-on-1 sessions",
+          "Corporate wellness",
+          "Events"
+        ]
+      ],
+      [
+        "Retail",
+        [
+          "Mats",
+          "Props",
+          "Apparel"
+        ]
+      ],
+      [
+        "Community",
+        [
+          "New student offers",
+          "Referral rewards",
+          "Volunteer days"
+        ]
+      ]
+    ],
+    "about": [
+      "Lotus Flow Yoga opened as a neighborhood studio where judgment stays at the door and curiosity is welcome.",
+      "Teachers emphasize safe alignment, accessible modifications, and the mental benefits of consistent practice.",
+      "Whether you seek strength, stress relief, or community, there is a class for you here."
+    ],
+    "location": "220 Balance Street, Boulder, CO 80301",
+    "phone": "+13035559876",
+    "phone_display": "(303) 555-9876",
+    "hours": "Monday - Sunday, 6:00 AM - 9:00 PM",
+    "slug": "yoga-studio",
+    "products_nav": "Services",
+    "services_nav": "Offerings",
+    "products_heading": "Featured Services",
+    "products_sub": "Six services our clients request most.",
+    "services_heading": "What We Offer",
+    "services_sub": "Comprehensive solutions tailored to your needs.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "Contact Us",
+    "contact_sub": "Visit, call, or send an inquiry\u2014we would love to hear from you.",
+    "footer_tag": "Yoga Classes & Mindfulness",
+    "email": "hello@yogastudio.com"
+  }
+]
